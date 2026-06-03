@@ -24,7 +24,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:4000";
+const API_BASE_URL = normalizeBaseUrl(import.meta.env.VITE_API_BASE_URL || "http://localhost:4000");
 const WS_BASE_URL = getWebSocketBaseUrl();
 
 const difficultyMeta = {
@@ -36,13 +36,17 @@ const difficultyMeta = {
 const timerPresets = [15, 30, 45, 60, 90];
 const EVENT_SPIN_DURATION_MS = 5000;
 
+function normalizeBaseUrl(value) {
+  return String(value || "").replace(/\/+$/, "");
+}
+
 function getWebSocketBaseUrl() {
-  if (import.meta.env.VITE_WS_BASE_URL) return import.meta.env.VITE_WS_BASE_URL;
+  if (import.meta.env.VITE_WS_BASE_URL) return normalizeBaseUrl(import.meta.env.VITE_WS_BASE_URL);
 
   try {
     const url = new URL(API_BASE_URL);
     url.protocol = url.protocol === "https:" ? "wss:" : "ws:";
-    return url.origin;
+    return normalizeBaseUrl(url.origin);
   } catch {
     return "ws://localhost:4000";
   }
