@@ -1,0 +1,137 @@
+[
+  {
+    "code": "BC01",
+    "number": 1,
+    "title": "KHỦNG HOẢNG KINH TẾ",
+    "status": "Giữ nguyên – phù hợp",
+    "effect": "Tất cả người chơi mất 1 điểm (kể cả người có 0 điểm – xuống -1 điểm).",
+    "implementationNote": "Nếu ván cho điểm âm: tất cả người chơi âm hơn hoặc -2 điểm thì loại bỏ hiệu ứng này (giữ 0 điểm sàn).",
+    "automation": "all_minus_one"
+  },
+  {
+    "code": "BC02",
+    "number": 2,
+    "title": "CÁCH MẠNG KHOA HỌC",
+    "status": "Giữ nguyên – phù hợp",
+    "effect": "Trong vòng này, mọi câu trả lời đúng nhận gấp đôi điểm (Dễ = 2, Trung bình = 4, Khó = 6).",
+    "implementationNote": "Khuyến nghị: gộp \"Cách Mạng Khoa Học\" gần cuối game để tăng kịch tính nhưng tránh game kết thúc quá nhanh đầu game.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC03",
+    "number": 3,
+    "title": "MÂU THUẪN XÃ HỘI",
+    "status": "Cập nhật – làm rõ cơ chế đấu tay đôi",
+    "effect": "Hai người đang dẫn đầu (điểm cao nhất) phải tham gia \"Đại Chiến Trí Tuệ\". Cả hai cùng nghe cùng một câu hỏi Khó. Ai trả lời đúng trước trong 30 giây: +3 điểm. Người kia: -1 điểm. Nếu cả hai đúng hoặc cả hai sai: không ai thay đổi điểm.",
+    "implementationNote": "Nếu chỉ có 1 người đứng đầu (có đôi): chọn người điểm cao thứ 2 để tham gia.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC04",
+    "number": 4,
+    "title": "SAI LẦM NHẬN THỨC",
+    "status": "Giữ nguyên – phù hợp",
+    "effect": "Người có điểm cao nhất hiện tại mất lượt (bỏ qua lượt chơi của họ trong vòng này). Nếu nhiều người cùng điểm cao nhất: tất cả họ mất lượt.",
+    "implementationNote": "Gợi ý: đổi tên thành \"Biết Mãn Người Kiêu\" để dui hướng triết học mác rủ hơn.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC05",
+    "number": 5,
+    "title": "BƯỚC NGOẶT LỊCH SỬ",
+    "status": "Giữ nguyên – phù hợp",
+    "effect": "Người có điểm thấp nhất hiện tại nhận ngay 2 điểm hỗ trợ. Nếu nhiều người cùng điểm thấp nhất: tất cả họ đều nhận 2 điểm.",
+    "implementationNote": "Tránh sử dụng quá nhiều lá hiệu ứng này – nếu 3+ lần/game sẽ mất tác dụng cân bằng.",
+    "automation": "lowest_plus_two"
+  },
+  {
+    "code": "BC06",
+    "number": 6,
+    "title": "CÁCH MẠNG XÃ HỘI",
+    "status": "Lá mới",
+    "effect": "Người đang dẫn đầu và người đứng cuối đổi điểm cho nhau ngay lập tức. Nếu nhiều người cùng đầu/cuối: chọn ngẫu nhiên hoặc theo quy định trước game.",
+    "implementationNote": "Biến cố mạnh, nên để MC xác nhận trước khi áp dụng điểm.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC07",
+    "number": 7,
+    "title": "TIẾN BỘ KHOA HỌC KỸ THUẬT",
+    "status": "Lá mới",
+    "effect": "Vòng này, bất cứ ai trả lời đúng câu hỏi mức độ Khó (3 điểm) sẽ nhận thêm +2 điểm thưởng. Mức Dễ và Trung bình: không có thưởng thêm. Hiệu lực chỉ trong vòng hiện tại.",
+    "implementationNote": "Kết hợp đẹp: sau vòng \"Tiến Bộ Khoa Học\" là vòng \"Sai Lầm Nhận Thức\" – người bạn điểm cao nhất mất lượt!",
+    "automation": "manual"
+  },
+  {
+    "code": "BC08",
+    "number": 8,
+    "title": "KHỦNG HOẢNG Ý THỨC",
+    "status": "Lá mới",
+    "effect": "Tất cả người chơi không được sử dụng lá Kỹ Năng trong vòng tiếp theo (1 vòng). Lá Kỹ Năng vẫn giữ trên tay, chỉ bị đóng băng.",
+    "implementationNote": "Tránh gộp liên tiếp với \"Sai Lầm Nhận Thức\" – hai biến cố âm trong một vòng sẽ gây bức bội.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC09",
+    "number": 9,
+    "title": "THỰC TIỄN PHÁN XÉT",
+    "status": "Lá mới",
+    "effect": "GM đặt 1 câu hỏi bất ngờ cho người dẫn đầu (điểm cao nhất). Câu hỏi ở mức Khó. Nếu đúng: +2 điểm. Nếu sai: -2 điểm. Người dẫn đầu không thể từ chối.",
+    "implementationNote": "Nếu người dẫn đầu đang giữ lá \"Ý Thức Tác Động Vật Chất\": lá đó chỉ chống Biến Cố ảnh hưởng đến bạn – \"Thực Tiễn Phán Xét\" vẫn có hiệu lực vì đây là câu hỏi trực tiếp, không phải hiệu ứng biến cố thông thường.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC10",
+    "number": 10,
+    "title": "ĐẠI LIÊN MINH",
+    "status": "Lá mới",
+    "effect": "Hai người chơi bất kỳ (tự nguyện) có thể \"liên minh\" để cùng trả lời 1 câu hỏi Khó (3 điểm). Cả hai cùng bàn và trả lời cùng nhau trong 45 giây. Nếu đúng: cả hai nhận +3 điểm mỗi người. Nếu sai: cả hai mất 1 điểm mỗi người.",
+    "implementationNote": "Giữ chặt nguyên tắc: không ai được liên minh với người đang dẫn đầu (nếu gần hết game) để tránh game kết thúc sai. Nếu không có tự nguyện: biến cố bị bỏ qua (skip).",
+    "automation": "manual"
+  },
+  {
+    "code": "BC11",
+    "number": 11,
+    "title": "ĐẢO CHIỀU LỊCH SỬ",
+    "status": "Lá mới",
+    "effect": "Chiều lượt chơi bị đảo ngược ngay lập tức và tiếp tục theo chiều đó cho hết ván (hoặc đến khi một Biến Cố khác thay đổi). Ví dụ: trước là 1→2→3→4, sau là 4→3→2→1.",
+    "implementationNote": "Cần ghi rõ chiều mới ngay sau khi biến cố kích hoạt. Tránh gộp 2 lá \"Đảo Chiều\" trong cùng bộ để tránh phá vỡ đầu.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC12",
+    "number": 12,
+    "title": "KHAI SÁNG TẬP THỂ",
+    "status": "Lá mới",
+    "effect": "Tất cả người chơi cùng thảo luận 90 giây về 1 chủ đề Triết học do GM chọn ngẫu nhiên. Sau 90 giây, mọi người vinh danh người phát biểu hay nhất (không được tự bầu cho mình). Người nhận nhiều phiếu nhất: +3 điểm.",
+    "implementationNote": "Nếu hòa phiếu: chia điểm (1.5 điểm mỗi người, làm tròn lên). Nếu chỉ có 2 người: bỏ qua biến cố này và rút lại.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC13",
+    "number": 13,
+    "title": "BẤT BÌNH ĐẲNG Ý THỨC",
+    "status": "Lá mới",
+    "effect": "Người dẫn đầu (điểm cao nhất) bắt buộc phải chọn câu hỏi Khó (3 điểm) trong vòng này – không được chọn Dễ hay Trung bình. Nếu họ trả lời đúng: +3 điểm bình thường. Nếu sai: -1 điểm (thay vì 0).",
+    "implementationNote": "Không áp dụng cho người đang ở mốc > 12 điểm (sắp thắng). Chỉ áp dụng cho 1 vòng.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC14",
+    "number": 14,
+    "title": "TỔNG PHẢN CÔNG CỦA LỊCH SỬ",
+    "status": "Lá mới",
+    "effect": "Người đang đứng cuối bảng xếp hạng: (1) Nhận 1 lá Kỹ Năng miễn phí (GM chọn ngẫu nhiên); (2) Được chơi thêm 1 lượt ngay lập tức sau biến cố này (có thể tự chọn mức độ câu hỏi).",
+    "implementationNote": "Nếu nhiều người cùng điểm thấp nhất: tất cả đều nhận lá Kỹ Năng miễn phí nhưng chỉ 1 người (ngẫu nhiên) được lượt thưởng. Gộp 2 lá này trong bộ lá là con số phù hợp.",
+    "automation": "manual"
+  },
+  {
+    "code": "BC15",
+    "number": 15,
+    "title": "THỜI ĐẠI PHONG TRÀO",
+    "status": "Lá mới",
+    "effect": "Trong vòng này, tất cả người chơi có thể \"phản biện\" bất kỳ đáp án nào của bất kỳ người nào (kể cả khi GM đã công nhận đúng). Nếu đa số người chơi đồng ý với phản biện (trừ người vừa trả lời): đáp án bị xem xét lại bởi GM. Nếu GM xác nhận phản biện đúng: người đã trả lời mất điểm, người phản biện +1 điểm. Chỉ áp dụng 1 lần/vòng.",
+    "implementationNote": "Phản biện phải nêu rõ khái niệm Triết học cụ thể (không được nói chung \"tôi nghĩ sai\"). GM là trọng tài cuối cùng – tránh tranh cãi quá dài về câu hỏi bên ngoài nội dung môn học.",
+    "automation": "manual"
+  }
+]

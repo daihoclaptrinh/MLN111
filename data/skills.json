@@ -1,0 +1,137 @@
+[
+  {
+    "code": "KN01",
+    "number": 1,
+    "title": "THỰC TIỄN LÀ TIÊU CHUẨN CHÂN LÝ",
+    "timing": "Dùng ngay sau khi GM tuyên bố SAI, trước khi chuyển lượt.",
+    "effect": "Được kiểm tra lại đáp án một lần sau khi GM phán quyết. Nếu đáp án mới đúng: nhận điểm như bình thường. Nếu vẫn sai: mất lượt.",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN02",
+    "number": 2,
+    "title": "PHỦ ĐỊNH CỦA PHỦ ĐỊNH",
+    "timing": "Có thể dùng vào bất kỳ lúc nào trong lượt của bạn.",
+    "effect": "Cướp 1 điểm từ người đang dẫn đầu bảng xếp hạng. Nếu nhiều người cùng đứng đầu: bạn chọn một người trong số đó.",
+    "automation": "steal_one",
+    "requiresTarget": true
+  },
+  {
+    "code": "KN03",
+    "number": 3,
+    "title": "QUY LUẬT MÂU THUẪN",
+    "timing": "Dùng thay cho việc trả lời câu hỏi thường trong lượt của bạn.",
+    "effect": "Chọn một người chơi bất kỳ để \"tranh luận\". Cả hai cùng nghe cùng một câu hỏi Trung bình từ lá Tình Huống bạn đang giữ. Ai trả lời đúng trước (trong 30 giây): +2 điểm. Người còn lại: -1 điểm. Nếu cả hai đúng hoặc cả hai sai: không ai thay đổi điểm.",
+    "automation": "manual",
+    "requiresTarget": true
+  },
+  {
+    "code": "KN04",
+    "number": 4,
+    "title": "LƯỢNG ĐỔI CHẤT",
+    "timing": "Dùng vào bất kỳ lúc nào trong lượt của bạn khi đủ điều kiện (3+ lá Kỹ Năng).",
+    "effect": "Khi bạn đang giữ 3 lá Kỹ Năng trở lên (gồm cả lá này), bạn có thể nộp tất cả chúng để đổi lấy +5 điểm ngay lập tức. Các lá Kỹ Năng đã nộp sẽ bị loại đi.",
+    "automation": "self_plus_five",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN05",
+    "number": 5,
+    "title": "Ý THỨC TÁC ĐỘNG VẬT CHẤT",
+    "timing": "Kích hoạt ngay khi bạn muốn, hiệu ứng có hiệu lực cho đến lá Biến Cố kế tiếp.",
+    "effect": "Miễn nhiễm lá Biến Cố tiếp theo ảnh hưởng đến bạn. Lá Biến Cố đó vẫn được đọc to lên nhưng hiệu ứng của nó hoàn toàn bỏ qua với bạn.",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN06",
+    "number": 6,
+    "title": "BƯỚC NHẢY VỌT",
+    "timing": "Tự động áp dụng khi bạn trả lời đúng. Dùng trước khi trả lời.",
+    "effect": "Sau khi trả lời đúng câu hỏi ở bất kỳ mức độ nào, bạn được tính thêm +1 điểm thưởng ngay lập tức. Hiệu ứng này áp dụng ngay sau khi GM xác nhận đúng.",
+    "automation": "self_plus_one",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN07",
+    "number": 7,
+    "title": "PHÁT TRIỂN XOÁY ỐC",
+    "timing": "Dùng vào bất kỳ lúc nào trong lượt của bạn.",
+    "effect": "Lấy lại 1 lá Kỹ Năng bất kỳ mà bạn đã dùng trước đó trong ván (kể trừ lá đã mất do \"Lượng Đổi Chất\"). Lá được lấy lại có thể dùng lại bình thường.",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN08",
+    "number": 8,
+    "title": "CHÂN LÝ KHÁCH QUAN",
+    "timing": "Dùng thay cho việc trả lời câu hỏi thường trong lượt của bạn.",
+    "effect": "Chọn 1 người chơi bất kỳ. Bạn đọc to 1 câu hỏi triết học tự đặt (không cần từ lá bài, bạn tự đặt câu hỏi trong phạm vi kiến thức môn Triết Học). Nếu họ trả lời đúng trong 20 giây: +1 điểm cho họ, 0 cho bạn. Nếu sai: -1 điểm cho họ, +1 điểm cho bạn.",
+    "automation": "manual",
+    "requiresTarget": true
+  },
+  {
+    "code": "KN09",
+    "number": 9,
+    "title": "NGUYÊN NHÂN VÀ KẾT QUẢ",
+    "timing": "Dùng vào cuối lượt của bạn, sau khi đã trả lời câu hỏi.",
+    "effect": "Đặt \"bẫy nhân quả\" lên người chơi ngồi kế bạn (theo chiều thuận). Lượt tiếp theo, nếu người đó trả lời SAI, họ mất thêm 1 điểm bổ sung (ngoài các hiệu ứng khác). Hiệu ứng bị hủy nếu người đó trả lời ĐÚNG.",
+    "automation": "manual",
+    "requiresTarget": true
+  },
+  {
+    "code": "KN10",
+    "number": 10,
+    "title": "BẢN CHẤT VÀ HIỆN TƯỢNG",
+    "timing": "Dùng ngay đầu lượt của bạn, trước khi chọn mức độ.",
+    "effect": "Trước khi chọn mức độ câu hỏi, bạn được GM tiết lộ 1 từ khóa gợi ý của câu trả lời (không phải toàn bộ đáp án). Sau đó bạn chọn mức độ và trả lời bình thường.",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN11",
+    "number": 11,
+    "title": "KHẢ NĂNG VÀ HIỆN THỰC",
+    "timing": "Phải tuyên bố trước khi nghe câu hỏi. Không thể thu hồi sau khi câu hỏi đã đọc.",
+    "effect": "Trước khi trả lời, bạn tuyên bố \"CƯỢC SỐNG CÒN\". Nếu trả lời ĐÚNG: nhận gấp đôi điểm của mức độ đó đã chọn (Dễ = 2, Trung bình = 4, Khó = 6). Nếu trả lời SAI: mất 2 điểm (thay vì 0).",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN12",
+    "number": 12,
+    "title": "NỘI DUNG QUYẾT ĐỊNH HÌNH THỨC",
+    "timing": "Dùng thay cho việc rút lá Tình Huống ngẫu nhiên.",
+    "effect": "Thay vì rút lá ngẫu nhiên, bạn tự tuyên bố chủ đề Triết học bạn muốn trả lời (ví dụ: \"Tôi chọn chủ đề Quy Luật Lượng-Chất\"). GM sẽ tạo câu hỏi mới theo chủ đề đó. Bạn vẫn tự chọn mức độ.",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN13",
+    "number": 13,
+    "title": "BIỆN CHỨNG CHỦ QUAN",
+    "timing": "Dùng ngay sau khi người khác tuyên bố dùng lá Kỹ Năng / Biến Cố kích hoạt – trước khi hiệu ứng đó có hiệu lực.",
+    "effect": "Hủy hiệu ứng của 1 lá Kỹ Năng vừa được người khác sử dụng (kể cả Biến Cố vừa kích hoạt). Lá bị hủy phải trả lại người dùng (không bị loại). Chỉ dùng được một lần/ván.",
+    "automation": "manual",
+    "requiresTarget": true
+  },
+  {
+    "code": "KN14",
+    "number": 14,
+    "title": "THẾ GIỚI QUAN DUY VẬT",
+    "timing": "Kích hoạt vào bất kỳ lúc nào. Hiệu lực đến hết lượt của bạn vòng sau.",
+    "effect": "Trong 1 vòng tiếp theo, bạn miễn dịch mọi hiệu ứng làm mất điểm (từ Biến Cố, Kỹ Năng của người khác, phản biện thất bại...). Điểm dương (cộng) vẫn nhận bình thường.",
+    "automation": "manual",
+    "requiresTarget": false
+  },
+  {
+    "code": "KN15",
+    "number": 15,
+    "title": "CÁI CHUNG – CÁI RIÊNG",
+    "timing": "Dùng vào bất kỳ lúc nào trong lượt của bạn.",
+    "effect": "Chọn người chơi có ít điểm nhất hiện tại và tặng cho họ 1 lá Kỹ Năng từ bộ bài Kỹ Năng (bạn chọn lá nào tùy ý). Đổi lại, cả bạn và người đó cùng nhận +1 điểm.",
+    "automation": "both_plus_one",
+    "requiresTarget": true
+  }
+]

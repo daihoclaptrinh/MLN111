@@ -1,0 +1,3722 @@
+[
+  {
+    "code": "TH01",
+    "number": 1,
+    "title": "Đối tượng & chức năng triết học",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Hạt nhân chủ yếu của thế giới quan là gì?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Các quan điểm xã hội – chính trị."
+          },
+          {
+            "label": "B",
+            "text": "Các quan điểm triết học."
+          },
+          {
+            "label": "C",
+            "text": "Các quan điểm mỹ học."
+          },
+          {
+            "label": "D",
+            "text": "Cả A, B, C."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Các quan điểm triết học.",
+        "explanation": "B. Các quan điểm triết học."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Nhận xét của V.I.Lênin về một tác phẩm của C.Mác và Ph.Ăngghen: “Tác phẩm này trình bày một cách hết sức sáng tạo và rõ ràng thế giới quan mới chủ nghĩa duy vật triệt để” (tức chủ nghĩa duy vật lịch sử). Đó là tác phẩm:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tư bản"
+          },
+          {
+            "label": "B",
+            "text": "Lutvích Phoiơbắc và sự cáo chung của triết học cổ điển Đức"
+          },
+          {
+            "label": "C",
+            "text": "Tuyên ngôn của Đảng cộng sản"
+          },
+          {
+            "label": "D",
+            "text": "Luận cương về Phoiơbắc"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Tuyên ngôn của Đảng cộng sản",
+        "explanation": "C. Tuyên ngôn của Đảng cộng sản"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Tác phẩm nào được coi là đánh dấu sự chín muồi của thế giới quan mới (chủ nghĩa duy vật về lịch sử)?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hệ tư tưởng Đức"
+          },
+          {
+            "label": "B",
+            "text": "Bản thảo kinh tế triết học 1844"
+          },
+          {
+            "label": "C",
+            "text": "Sự khốn cùng của triết học"
+          },
+          {
+            "label": "D",
+            "text": "Luận cương về Phoiơbắc"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Hệ tư tưởng Đức",
+        "explanation": "A. Hệ tư tưởng Đức"
+      }
+    ]
+  },
+  {
+    "code": "TH02",
+    "number": 2,
+    "title": "Vấn đề cơ bản của triết học",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Hãy chỉ ra luận điểm thuộc lập trường triết học duy tâm lịch sử trong những luận điểm sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trong tất cả những chuyển biến lịch sử thì chuyển biến kinh tế là chuyển biến quan trọng nhất, quyết định sự phát triển của lịch sử"
+          },
+          {
+            "label": "B",
+            "text": "Dân dĩ thực vi thiên"
+          },
+          {
+            "label": "C",
+            "text": "Do có được những lực lượng sản xuất mới, loài người thay đổi phương thức sản xuất của mình, đồng thời thay đổi tất cả những quan hệ xã hội của mình"
+          },
+          {
+            "label": "D",
+            "text": "Xã hội vận động theo những quy luật phụ thuộc vào ý thức của con người"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Xã hội vận động theo những quy luật phụ thuộc vào ý thức của con người",
+        "explanation": "D. Xã hội vận động theo những quy luật phụ thuộc vào ý thức của con người"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Hãy chỉ ra luận điểm thuộc lập trường triết học duy vật siêu hình trong lịch sử trong những luận điểm sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Xã hội là một tổ hợp các bộ phận được cấu thành và biến đổi một cách ngẫu nhiên"
+          },
+          {
+            "label": "B",
+            "text": "Xã hội là một tổng số các bộ phận cấu thành và biến đổi tùy theo ý muốn của con người"
+          },
+          {
+            "label": "C",
+            "text": "tất cả cái gì thúc đẩy con người hành động đều phải thông qua đầu óc của họ. Vì vậy phải tìm động lực sâu xa của lịch sử ở trong tư tưởng và ý chí của con gười"
+          },
+          {
+            "label": "D",
+            "text": "Quy luật kinh tế là quyết định mặc dù chính sách kinh tế có thể kìm hãm hay thúc đẩy sự hoạt động của quy luật đó"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Xã hội là một tổ hợp các bộ phận được cấu thành và biến đổi một cách ngẫu nhiên",
+        "explanation": "A. Xã hội là một tổ hợp các bộ phận được cấu thành và biến đổi một cách ngẫu nhiên"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Hãy chỉ ra luận điểm thuộc lập trường duy vật biện chứng trong bốn luận điểm sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Do vật chất quyết định ý thức lên giám đốc chỉ cần tăng lương cho người lao động là họ sẽ"
+          },
+          {
+            "label": "B",
+            "text": "Do vai trò tác động tích cực của ý thức nên chỉ cần thường xuyên giáo dục ý thức, tư tưởng"
+          },
+          {
+            "label": "C",
+            "text": "Vì vật chất và ý thức có quan hệ biện chứng nên đối với người lao động phả vừa khuyến khích vật"
+          },
+          {
+            "label": "D",
+            "text": "Vì chân lý là cụ thể nên phải tùy hoàn cảnh, tùy đối tượng cụ thể mà tăng thêm khuyến khích vật chất hoặc tăng cường giáo dục chính trị tư tưởng hoặc đồng thời nhấn mạnh cả hai yếu tố đó, không nên vận dụng theo một sơ đồ chu quan, cứng nhắc"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Vì chân lý là cụ thể nên phải tùy hoàn cảnh, tùy đối tượng cụ thể mà tăng thêm khuyến khích vật chất hoặc tăng cường giáo dục chính trị tư tưởng hoặc đồng thời nhấn mạnh cả hai yếu tố đó, không nên vận dụng theo một sơ đồ chu quan, cứng nhắc",
+        "explanation": "D. Vì chân lý là cụ thể nên phải tùy hoàn cảnh, tùy đối tượng cụ thể mà tăng thêm khuyến khích vật chất hoặc tăng cường giáo dục chính trị tư tưởng hoặc đồng thời nhấn mạnh cả hai yếu tố đó, không nên vận dụng theo một sơ đồ chu quan, cứng nhắc"
+      }
+    ]
+  },
+  {
+    "code": "TH03",
+    "number": 3,
+    "title": "Chủ nghĩa duy vật & duy tâm",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Thêm cụm từ nào vào chỗ trống của câu sau để được một luận điểm của chủ nghĩa duy vật biện chứng: Quan hệ giữa phạm trù triết học và phạm trù của các khoa học cụ thể là quan hệ giữa ....(1)....và ....(2)....",
+        "options": [
+          {
+            "label": "A",
+            "text": "1- cái riêng, 2- cái riêng."
+          },
+          {
+            "label": "B",
+            "text": "1- cái riêng, 2- cái chung."
+          },
+          {
+            "label": "C",
+            "text": "1- cái chung , 2- cái riêng."
+          },
+          {
+            "label": "D",
+            "text": "1- cái chung, 2- cái chung."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. 1- cái chung , 2- cái riêng.",
+        "explanation": "C. 1- cái chung , 2- cái riêng."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Đâu không phải là câu trả lời của chủ nghĩa duy vật biện chứng về tính thống nhất vật chất của thế giới?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chỉ có một thế giới duy nhất là thế giới vật chất."
+          },
+          {
+            "label": "B",
+            "text": "Mọi bộ phận của thế giới vật chất đều liên hệ chuyển hoá lẫn nhau."
+          },
+          {
+            "label": "C",
+            "text": "Thế giới vật chất tồn tại khách quan, vĩnh viễn, vô hạn, vô tận, không do ai sinh ra và không mất đi."
+          },
+          {
+            "label": "D",
+            "text": "Thế giới vật chất bao gồm những bộ phận riêng biệt nhau."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Thế giới vật chất bao gồm những bộ phận riêng biệt nhau.",
+        "explanation": "D. Thế giới vật chất bao gồm những bộ phận riêng biệt nhau."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Chỉ ra đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng về sự tồn tại của cái chung trong các câu nói sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cái chung tồn tại khách quan ngoài cái riêng."
+          },
+          {
+            "label": "B",
+            "text": "Cái chung thực sự tồn tại, nhưng không tồn tại ngoài cái riêng, mà thông qua cái riêng biểu hiện sự tồn tại của mình."
+          },
+          {
+            "label": "C",
+            "text": "Cái chung thuần túy là sản phẩm của tư duy trừu tượng không có tồn tại cảm tính độc lập."
+          },
+          {
+            "label": "D",
+            "text": "Cả A và C."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả A và C.",
+        "explanation": "D. Cả A và C."
+      }
+    ]
+  },
+  {
+    "code": "TH04",
+    "number": 4,
+    "title": "Phạm trù vật chất",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Trong định nghĩa về vật chất của mình, V.I.Lênin cho thuộc tính chung nhất của vật chất là:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tự vận động."
+          },
+          {
+            "label": "B",
+            "text": "Cùng tồn tại."
+          },
+          {
+            "label": "C",
+            "text": "Đều có khả năng phản ánh."
+          },
+          {
+            "label": "D",
+            "text": "Tồn tại khách quan bên ngoài ý thức, không lệ thuộc vào cảm giác."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Tồn tại khách quan bên ngoài ý thức, không lệ thuộc vào cảm giác.",
+        "explanation": "D. Tồn tại khách quan bên ngoài ý thức, không lệ thuộc vào cảm giác."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tính đúng đắn trong quan niệm về vật chất của các nhà triết học duy vật thời kỳ cổ đại là:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Xuất phát từ thế giới vật chất để khái quát quan niệm về vật chất."
+          },
+          {
+            "label": "B",
+            "text": "Xuất phát từ kinh nghiệm thực tiễn."
+          },
+          {
+            "label": "C",
+            "text": "Xuất phát từ tư duy."
+          },
+          {
+            "label": "D",
+            "text": "Ý kiến khác."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Xuất phát từ thế giới vật chất để khái quát quan niệm về vật chất.",
+        "explanation": "A. Xuất phát từ thế giới vật chất để khái quát quan niệm về vật chất."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Đồng nhất vật chất với khối lượng đó là quan niệm về vật chất của ai và ở thời kỳ nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Các nhà triết học duy vật thời kỳ cổ đại."
+          },
+          {
+            "label": "B",
+            "text": "Các nhà triết học thời kỳ Phục hưng."
+          },
+          {
+            "label": "C",
+            "text": "Các nhà khoa học tự nhiên thế kỷ XVII - XVIII."
+          },
+          {
+            "label": "D",
+            "text": "Các nhà triết học duy vật biện chứng thời kỳ cổ đại."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Các nhà khoa học tự nhiên thế kỷ XVII - XVIII.",
+        "explanation": "C. Các nhà khoa học tự nhiên thế kỷ XVII - XVIII."
+      }
+    ]
+  },
+  {
+    "code": "TH05",
+    "number": 5,
+    "title": "Phương thức & hình thức tồn tại của vật chất",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Hai mệnh đề “Vận động là thuộc tính cố hữu của vật chất” và “Vận động là phương thức tồn tại của vật chất” được hiểu là:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Vật chất tồn tại bằng cách vận động."
+          },
+          {
+            "label": "B",
+            "text": "Vật chất biểu hiện sự tồn tại cụ thể, đa dạng thông qua vận động."
+          },
+          {
+            "label": "C",
+            "text": "Không thể có vận động phi vật chất cũng như không thể có vật chất không vận động."
+          },
+          {
+            "label": "D",
+            "text": "Cả A, B, C."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả A, B, C.",
+        "explanation": "D. Cả A, B, C."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Không gian và thời gian:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Không gian là hình thức tồn tại của vật chất, còn thời gian là phương thức tồn tại của vật chất."
+          },
+          {
+            "label": "B",
+            "text": "Không gian là phương thức tồn tại của vật chất, còn thời gian là hình thức tồn tại của vật chất."
+          },
+          {
+            "label": "C",
+            "text": "Không gian và thời gian là những hình thức cơ bản của tồn tại vật chất."
+          },
+          {
+            "label": "D",
+            "text": "Không gian và thời gian là những phương thức cơ bản của tồn tại vật chất."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Không gian và thời gian là những hình thức cơ bản của tồn tại vật chất.",
+        "explanation": "C. Không gian và thời gian là những hình thức cơ bản của tồn tại vật chất."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Trường phái triết học nào cho không gian và thời gian là do thói quen của con người quy định",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy vật siêu hình"
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa duy tâm chủ quan."
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy vật biện chứng"
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy tâm khách quan."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Chủ nghĩa duy tâm chủ quan.",
+        "explanation": "B. Chủ nghĩa duy tâm chủ quan."
+      }
+    ]
+  },
+  {
+    "code": "TH06",
+    "number": 6,
+    "title": "Nguồn gốc & bản chất ý thức",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Phạm trù là những … phản ánh những mặt, những thuộc tính, những mối liên hệ chung, cơ bản nhất của các sự vật và hiện tượng thuộc một lĩnh vực nhất định.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Khái niệm"
+          },
+          {
+            "label": "B",
+            "text": "Khái niệm rộng"
+          },
+          {
+            "label": "C",
+            "text": "Khái niệm rộng nhất"
+          },
+          {
+            "label": "D",
+            "text": "Khái niệm hẹp"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Khái niệm rộng nhất",
+        "explanation": "C. Khái niệm rộng nhất"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Trong triết học cổ đại Ấn Độ, nhân sinh quan Phật giáo thể hiện tập trung trong thuyết “tứ đế”. Phương án nào sau đây phản ánh được “tứ đế” đó?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Khổ đế, Tập đế, Nhân đế, Đạo đế"
+          },
+          {
+            "label": "B",
+            "text": "Khổ đế, Tập đế, Nhân đế, Diệt đế"
+          },
+          {
+            "label": "C",
+            "text": "Khổ đế, Tập đế, Diệt đế, Đạo đế"
+          },
+          {
+            "label": "D",
+            "text": "Khổ đế, Tập đế, Đạo đế, Niết bàn"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Khổ đế, Tập đế, Diệt đế, Đạo đế",
+        "explanation": "C. Khổ đế, Tập đế, Diệt đế, Đạo đế"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Chọn từ phù hợp điền vào câu sau cho đúng với quan điểm duy vật biện chứng: “Ý thức chẳng qua là…. được di chuyển vào bộ óc con người và được cải biến ở trong đó”.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Vật chất."
+          },
+          {
+            "label": "B",
+            "text": "Cái vật chất."
+          },
+          {
+            "label": "C",
+            "text": "Vật thể."
+          },
+          {
+            "label": "D",
+            "text": "Thông tin."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Cái vật chất.",
+        "explanation": "B. Cái vật chất."
+      }
+    ]
+  },
+  {
+    "code": "TH07",
+    "number": 7,
+    "title": "Mối quan hệ vật chất - ý thức",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Vật chất và ý thức tồn tại độc lập, ý thức không quyết định vật chất và vật chất không quyết định ý thức, đây là quan điểm của:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Duy vật"
+          },
+          {
+            "label": "B",
+            "text": "Duy tâm"
+          },
+          {
+            "label": "C",
+            "text": "Nhị nguyên"
+          },
+          {
+            "label": "D",
+            "text": "Duy vật tầm thường"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Nhị nguyên",
+        "explanation": "C. Nhị nguyên"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Đềcáctơ giải quyết mối quan hệ giữa vật chất và ý thức như thế nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thực thể vật chất độc lập và quyết định thực thể ý thức."
+          },
+          {
+            "label": "B",
+            "text": "Thực thể vật chất không tồn tại độc lập mà phụ thuộc vào thực thể ý thức"
+          },
+          {
+            "label": "C",
+            "text": "Thực thể vật chất và thực thể ý thức độc lập nhau, song song cùng tồn tại."
+          },
+          {
+            "label": "D",
+            "text": "Thực thể ý thức phụ thuộc vào thực thể vật chất, nhưng có tính độc lập tương đối."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Thực thể vật chất và thực thể ý thức độc lập nhau, song song cùng tồn tại.",
+        "explanation": "C. Thực thể vật chất và thực thể ý thức độc lập nhau, song song cùng tồn tại."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Quan điểm của Đềcáctơ về quan hệ giữa vật chất và ý thức cuối cùng lại rơi vào quan điểm nào? Vì sao?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Duy vật; vì coi vật chất độc lập với ý thức"
+          },
+          {
+            "label": "B",
+            "text": "Duy vật không triệt để; vì không thừa nhận vật chất quyết định ý thức"
+          },
+          {
+            "label": "C",
+            "text": "Nhị nguyên vì thừa nhận hai thực thể tạo thành hai thế giới"
+          },
+          {
+            "label": "D",
+            "text": "Duy tâm; vì thừa nhận thực thể vật chất và tinh thần tuy độc lập nhưng đều phụ thuộc vào thực thể thứ ba đó là thượng đế."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Duy tâm; vì thừa nhận thực thể vật chất và tinh thần tuy độc lập nhưng đều phụ thuộc vào thực thể thứ ba đó là thượng đế.",
+        "explanation": "D. Duy tâm; vì thừa nhận thực thể vật chất và tinh thần tuy độc lập nhưng đều phụ thuộc vào thực thể thứ ba đó là thượng đế."
+      }
+    ]
+  },
+  {
+    "code": "TH08",
+    "number": 8,
+    "title": "Hai nguyên lý phép biện chứng",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "…là phương thức tồn tại và phát triển của sự vật, là hệ thống các mối liên hệ tương đối bền vững giữa các yếu tố của sự vật đó.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nguyên nhân"
+          },
+          {
+            "label": "B",
+            "text": "Kết quả"
+          },
+          {
+            "label": "C",
+            "text": "Nội dung"
+          },
+          {
+            "label": "D",
+            "text": "Hình thức"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Hình thức",
+        "explanation": "D. Hình thức"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Đâu là quan niệm của phép biện chứng duy vật về vai trò của các mối liên hệ đối với sự vận động và phát triển của các sự vật và hiện tượng?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Các mối liên hệ có vai trò khác nhau"
+          },
+          {
+            "label": "B",
+            "text": "Các mối liên hệ có vai trò như nhau"
+          },
+          {
+            "label": "C",
+            "text": "Các mối liên hệ có vai trò khác nhau tùy theo các điều kiện xác định"
+          },
+          {
+            "label": "D",
+            "text": "Các mối liên hệ luôn luôn có vai trò khác nhau"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Các mối liên hệ có vai trò khác nhau tùy theo các điều kiện xác định",
+        "explanation": "C. Các mối liên hệ có vai trò khác nhau tùy theo các điều kiện xác định"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Đâu là nội dung nguyên lý của phép biện chứng duy vật về mối liên hệ phổ biến của các sự vật và hiện tượng.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Các sự vật và hiện tượng trong thế giới tồn tại tách rời nhau, giữa chúng không có sự phụ thuộc, ràng buộc lẫn nhau"
+          },
+          {
+            "label": "B",
+            "text": "Các sự vật có sự liên hệ tác động nhau nhưng không có sự chuyển hóa lẫn nhau"
+          },
+          {
+            "label": "C",
+            "text": "Sự vật khác nhau ở vẻ bề ngoài, do chủ quan con người quy định, bản chất sự vật không có gì khác nhau"
+          },
+          {
+            "label": "D",
+            "text": "Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hóa lẫn nhau."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hóa lẫn nhau.",
+        "explanation": "D. Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hóa lẫn nhau."
+      }
+    ]
+  },
+  {
+    "code": "TH09",
+    "number": 9,
+    "title": "Phép biện chứng & siêu hình",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Câu nào dưới đây trả lời đúng, ngắn gọn và rõ nhất về Sự phát triển theo Phép biện chứng duy vật:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Là xu hướng vận động làm nảy sinh cái mới."
+          },
+          {
+            "label": "B",
+            "text": "Là xu hướng thống trị của thế giới, tiến lên từ đơn giản đến phức tạp, từ thấp đến cao, từ kém hoàn thiện đến hoàn thiện hơn theo những quy luật nhất định."
+          },
+          {
+            "label": "C",
+            "text": "Là xu hướng vận động tiến lên."
+          },
+          {
+            "label": "D",
+            "text": "Là xu hướng vận động làm cho sự vật, hiện tượng tăng lên chỉ về khối lượng, thể tích, quy mô, trọng lượng, kích thước."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Là xu hướng vận động làm nảy sinh cái mới.",
+        "explanation": "A. Là xu hướng vận động làm nảy sinh cái mới."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Nguồn gốc của phương pháp siêu hình?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nguồn gốc nhận thức: bản thân các sự vật hiện tượng đều có tính ổn định tương đối. Mặt khác quá trình nhận thức nhiều khi đòi hỏi phải trừu tượng hóa các mối liên hệ nhất định của sự vật hiện tượng tạm thời cố định chúng để phân tích. Và sự sai lầm đó bắt đầu ở chỗ tuyệt đối hóa tính trừu tượng và ổn định đó."
+          },
+          {
+            "label": "B",
+            "text": "Nguồn gốc lịch sử: sự phát triển cùa khoa học tự nhiên thế kỉ XVII – XVIII với hai đặc điểm: – Phân ngành khoa học tạo nne6 sự ra đời của các khoa học cụ thể đặc biệt là sự phát trển của cơ học cổ điển – Phương pháp nghiên cứu chủ yếu là phân tích và thực nghiệm. Từ đó dẫn đến cách nhìn nhận xem xét sự vật cô lập tách rời đứng im bất biến trong khoa học và dần trở thành phương pháp siêu hình trong triết học"
+          },
+          {
+            "label": "C",
+            "text": "Cả A và B"
+          },
+          {
+            "label": "D",
+            "text": "Cả A và B đều sai"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Cả A và B",
+        "explanation": "C. Cả A và B"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Phương pháp biện chứng và phương pháp siêu hình khác nhau như thế nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "P hương pháp biện chứng xem xét, nghiên cứu các sự vật hiện tượng trong mối liên hệ phổ biến. Còn phương pháp siêu hình xem xét, nghiên cứu sự vật hiện tượng trong trạng thái cô lập tách rời"
+          },
+          {
+            "label": "B",
+            "text": "Phương pháp biện chứng xem xét nghiên cứu sự vật hiện tượng trong sự vận động phát triển không ngừng. Phương pháp siêu hình xem xét nghiên cứu sự vật hiện tượng trong sự đứng im bất biến"
+          },
+          {
+            "label": "C",
+            "text": "Cả A và B"
+          },
+          {
+            "label": "D",
+            "text": "Cả A và B đều sai"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Cả A và B",
+        "explanation": "C. Cả A và B"
+      }
+    ]
+  },
+  {
+    "code": "TH10",
+    "number": 10,
+    "title": "Quy luật lượng - chất",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch1_La01-10.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Tìm câu trả lời đúng nhất về mối quan hệ biện chứng giữa Lượng và Chất của sự vật trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sự vật nào cũng có sự thống nhất giữa lượng và chất. Chất và lượng có mâu thuẫn. Sự biến đổi về lượng tích luỹ lại dẫn đến sự biến đổi về chất. Sự biến đổi căn bản về chất tạo ra bước nhảy và chuyển sự vật cũ sang sự vật mới."
+          },
+          {
+            "label": "B",
+            "text": "Sự biến đổi về chất và lượng không phải mâu thuẫn. Chỉ có sự khác nhau là lượng biến đổi nhanh hơn chất. Bước nhảy chỉ xảy ra khi chất biến đổi căn bản."
+          },
+          {
+            "label": "C",
+            "text": "Sự biến đổi về chất nhanh hơn biến đổi về lượng mới tạo ra bước thay đổi căn bản về chất. Chất cũ mất đi, sự vật cũ bị phá vỡ, sự vật mới sinh ra."
+          },
+          {
+            "label": "D",
+            "text": "Chỉ có sự thay đổi từ lượng đến chất là theo xu hướng tiến lên. Còn sự thay đổi từ chất đến lượng là không thể diễn ra."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Sự vật nào cũng có sự thống nhất giữa lượng và chất. Chất và lượng có mâu thuẫn. Sự biến đổi về lượng tích luỹ lại dẫn đến sự biến đổi về chất. Sự biến đổi căn bản về chất tạo ra bước nhảy và chuyển sự vật cũ sang sự vật mới.",
+        "explanation": "A. Sự vật nào cũng có sự thống nhất giữa lượng và chất. Chất và lượng có mâu thuẫn. Sự biến đổi về lượng tích luỹ lại dẫn đến sự biến đổi về chất. Sự biến đổi căn bản về chất tạo ra bước nhảy và chuyển sự vật cũ sang sự vật mới."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Xác định câu trả lời đúng nhất về ý nghĩa phương pháp luận của mối quan hệ giữa lượng và chất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lượng - chất có quan hệ biện chứng. Phải kiên trì tích lũy về lượng mới có sự thay đổi về chất, tạo ra bước ngoặt. Không được nóng vội, chủ quan, duy ý chí, đốt cháy giai đoạn. Ngược lại, chỉ có thay đổi căn bản về chất mới chuyển được cái cũ sang cái mới"
+          },
+          {
+            "label": "B",
+            "text": "Lượng- chất có quan hệ biện chứng. Không được nóng vội, chủ quan. duy ý chí khi lượng đã được tích lũy đủ và ngược lại"
+          },
+          {
+            "label": "C",
+            "text": "Lượng- chất có quan hệ biện chứng. Không được nóng vội, chủ quan, duy ý chí khi chưa tích lũy được lượng cần thiết. Nhưng đôi khi chưa tích lũy đủ lượng cũng phải thay đổi về chất. Ngược lại, không được trù trừ, do dự, bảo thủ khi lượng đã được tích lũy"
+          },
+          {
+            "label": "D",
+            "text": "Phải kiên quyết, không trù trừ, do dự, thay đổi về chất khi lượng dã được tích lũy"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Lượng - chất có quan hệ biện chứng. Phải kiên trì tích lũy về lượng mới có sự thay đổi về chất, tạo ra bước ngoặt. Không được nóng vội, chủ quan, duy ý chí, đốt cháy giai đoạn. Ngược lại, chỉ có thay đổi căn bản về chất mới chuyển được cái cũ sang cái mới",
+        "explanation": "A. Lượng - chất có quan hệ biện chứng. Phải kiên trì tích lũy về lượng mới có sự thay đổi về chất, tạo ra bước ngoặt. Không được nóng vội, chủ quan, duy ý chí, đốt cháy giai đoạn. Ngược lại, chỉ có thay đổi căn bản về chất mới chuyển được cái cũ sang cái mới"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Ông cho rằng vũ trụ không phải do Chúa trời hay một lực lượng siêu nhiên thần bí nào tạo ra. Nó “mãi mãi đã, đang và sẽ là ngọn lửa vĩnh viễn đang không ngừng bùng cháy và tồn tại”. Ông là ai?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Đêmôcrit"
+          },
+          {
+            "label": "B",
+            "text": "Platôn"
+          },
+          {
+            "label": "C",
+            "text": "Hêraclit"
+          },
+          {
+            "label": "D",
+            "text": "Arixtốt"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Hêraclit",
+        "explanation": "C. Hêraclit"
+      }
+    ]
+  },
+  {
+    "code": "TH11",
+    "number": 11,
+    "title": "Quy luật mâu thuẫn",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Xác định quan niệm sai về vai trò của mâu thuẫn và của quy luật mâu thuẫn:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mâu thuẫn vừa có tính khách quan, vừa có tính phôt biến trong tự nhiên, xã hội và nhận thức"
+          },
+          {
+            "label": "B",
+            "text": "Không chỉ cần nắm được vai trò động lực, nguồn gốc của mâu thuẫn trong phát triển mà còn biêt phân biệt các mâu thuẫn khác nhau để có giải pháp goải quyết khác nhau"
+          },
+          {
+            "label": "C",
+            "text": "Quy luật mâu thuẫn là hạt nhân của phép biện chứng duy vật, nó chỉ phương hướng của sự phát triển"
+          },
+          {
+            "label": "D",
+            "text": "Sự vật tự nhiên muốn có mâu thuẫn bên trong, mâu thuẫn này là nguồn gốc vận động của sự vật"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Quy luật mâu thuẫn là hạt nhân của phép biện chứng duy vật, nó chỉ phương hướng của sự phát triển",
+        "explanation": "C. Quy luật mâu thuẫn là hạt nhân của phép biện chứng duy vật, nó chỉ phương hướng của sự phát triển"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Thêm cụm từ vào câu sau cho thích hợp: Mâu thuẫn giữa ..(1).. của phép biện chứng với .....(2)...................................... của hệ thống triết học của Hêghen.",
+        "options": [
+          {
+            "label": "A",
+            "text": "1- Tính vận động; 2- tính đứng im"
+          },
+          {
+            "label": "B",
+            "text": "1- Tính bảo thủ; 2- tính cách mạng."
+          },
+          {
+            "label": "C",
+            "text": "1- Tính cách mạng; 2- tính bảo thủ"
+          },
+          {
+            "label": "D",
+            "text": "1- Tính biện chứng; 2- tính siêu hình"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. 1- Tính cách mạng; 2- tính bảo thủ",
+        "explanation": "C. 1- Tính cách mạng; 2- tính bảo thủ"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Luận điểm sau đây về nguồn gốc của sự phát triển thuộc lập trường triết học nào: \"Mâu thuẫn tồn tại khách quan trong chính sự vật quy định sự phát triển của sự vật\".",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy tâm chủ quan."
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa duy tâm khách quan."
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy vật biện chứng."
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy vật siêu hình."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Chủ nghĩa duy vật biện chứng.",
+        "explanation": "C. Chủ nghĩa duy vật biện chứng."
+      }
+    ]
+  },
+  {
+    "code": "TH12",
+    "number": 12,
+    "title": "Khuynh hướng phát triển & cái mới",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Khi đưa ra quan niệm về \"vật tự nó\" ở ngoài con người, Cantơ là nhà triết học thuộc khuynh hướng nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Duy tâm chủ quan"
+          },
+          {
+            "label": "B",
+            "text": "Duy tâm khách quan"
+          },
+          {
+            "label": "C",
+            "text": "Duy vật"
+          },
+          {
+            "label": "D",
+            "text": "Nhị nguyên"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Duy vật",
+        "explanation": "C. Duy vật"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Khuynh hướng của sản xuất là không ngừng biến đổi phát triển. Sự biến đổi đó bao giờ cũng bắt đầu từ:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sự biến đổi, phát triển của cách thức sản xuất"
+          },
+          {
+            "label": "B",
+            "text": "Sự biến đổi, phát triển của lực lượng sản xuất"
+          },
+          {
+            "label": "C",
+            "text": "Sự biến đổi, phát triển của kỹ thuật sản xuất"
+          },
+          {
+            "label": "D",
+            "text": "Sự phát triển của khoa học kỹ thuật"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Sự biến đổi, phát triển của lực lượng sản xuất",
+        "explanation": "B. Sự biến đổi, phát triển của lực lượng sản xuất"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Khi cho rằng các vật thể quanh ta không liên quan đến thế giới \"vật tự nó\", mà chỉ là \"các hiện tượng phù hợp với cảm giác và tri thức do lý tính chúng ta tạo ra\", Cantơ là nhà triết học thuộc khuynh hướng nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Duy vật biện chứng."
+          },
+          {
+            "label": "B",
+            "text": "Duy vật siêu hình"
+          },
+          {
+            "label": "C",
+            "text": "Duy tâm chủ quan"
+          },
+          {
+            "label": "D",
+            "text": "Duy tâm khách quan"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Duy tâm chủ quan",
+        "explanation": "C. Duy tâm chủ quan"
+      }
+    ]
+  },
+  {
+    "code": "TH13",
+    "number": 13,
+    "title": "Cái chung & cái riêng",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Xác định quan niệm sai về mối quan hệ giữa cái chung và cái riêng:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cái chung chỉ tồn tại trong cái riêng, thông qua cái riêng"
+          },
+          {
+            "label": "B",
+            "text": "Quan hệ giữa cái chung và cái riêng là quan hệ tính chủ quan"
+          },
+          {
+            "label": "C",
+            "text": "Quan hệ giữa cái chung và cái riêng là có tính phổ biến"
+          },
+          {
+            "label": "D",
+            "text": "Cái chung là bộ phận còn cái riêng là cái toàn thể"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Quan hệ giữa cái chung và cái riêng là quan hệ tính chủ quan",
+        "explanation": "B. Quan hệ giữa cái chung và cái riêng là quan hệ tính chủ quan"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Xác định quan niệm sai về mối quan hệ giữa Cái Chung với Cái Riêng trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cái Chung chỉ tồn tại trong Cái Riêng, thông qua Cái Riêng mà biểu hiện sự tồn tại của mình."
+          },
+          {
+            "label": "B",
+            "text": "Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan."
+          },
+          {
+            "label": "C",
+            "text": "Quan hệ giữa Cái Chung và Cái Riêng là có tính phổ biến."
+          },
+          {
+            "label": "D",
+            "text": "Cái Riêng là cái toàn bộ, phong phú hơn Cái chung, Cái chung là cái bộ phận, nhưng sâu sắc hơn Cái riêng."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan.",
+        "explanation": "B. Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Xác định quan niệm sai về mối quan hệ giữa Cái Chung với Cái Riêng trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cái Chung chỉ tồn tại trong Cái Riêng, thông qua Cái Riêng mà biểu hiện sự tồn tại của mình."
+          },
+          {
+            "label": "B",
+            "text": "Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan."
+          },
+          {
+            "label": "C",
+            "text": "Quan hệ giữa Cái Chung và Cái Riêng là có tính phổ biến."
+          },
+          {
+            "label": "D",
+            "text": "Cái Riêng là cái toàn bộ, phong phú hơn Cái chung, Cái chung là cái bộ phận, nhưng sâu sắc hơn Cái riêng."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan.",
+        "explanation": "B. Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan."
+      }
+    ]
+  },
+  {
+    "code": "TH14",
+    "number": 14,
+    "title": "Nguyên nhân & kết quả",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Nguyên nhân và kết quả, cái nào có trước?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nguyên nhân."
+          },
+          {
+            "label": "B",
+            "text": "Kết quả."
+          },
+          {
+            "label": "C",
+            "text": "Cả hai xuất hiện cùng lúc."
+          },
+          {
+            "label": "D",
+            "text": "Không có đáp án nào đúng."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Nguyên nhân.",
+        "explanation": "A. Nguyên nhân."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Luận điểm nào dưới đây là luận điểm Siêu hình về quan hệ giữa Nguyên nhân và Kết quả:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trong những điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân sinh ra nhiều kết quả và ngược lại, nguyên nhân và kết quả có thể chuyển hoá cho nhau."
+          },
+          {
+            "label": "B",
+            "text": "Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân chỉ sinh ra một kết quả và ngược lại, nguyên nhân và kết quả không thể chuyển hoá cho nhau."
+          },
+          {
+            "label": "C",
+            "text": "Trong điều kiện xác định, nguyên nhân có sau kết quả. Một nguyên nhân có thể sinh ra nhiều kết quả và ngược lại. Nguyên nhân và kết quả có thể chuyển hoá cho nhau."
+          },
+          {
+            "label": "D",
+            "text": "Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân sinh ra nhiều kết quả và ngược lại. Nguyên nhân và kết quả có thể chuyển hoá cho nhau trong quá trình vận động."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân chỉ sinh ra một kết quả và ngược lại, nguyên nhân và kết quả không thể chuyển hoá cho nhau.",
+        "explanation": "B. Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân chỉ sinh ra một kết quả và ngược lại, nguyên nhân và kết quả không thể chuyển hoá cho nhau."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Quan hệ biện chứng giữa nguyên nhân và kết quả thể hiện như nào? Xác định câu trả lời theo quan điểm siêu hình:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trong điều kiện xác định, nguyên nhân có sau kết quả. Một nguyên nhân có thể sinh ra nhiều kết quả và ngược lại. Nguyên nhân và kết quả có thể chuyển hóa cho nhau"
+          },
+          {
+            "label": "B",
+            "text": "Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân chi sinh ra một kết quả và ngược lại, nguyên nhân và kết quả không thê chuyển hóa cho nhau"
+          },
+          {
+            "label": "C",
+            "text": "Trong những điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân sinh ra nhiều kết quả và ngược lại, nguyên nhân và kết quả có thể chuyển hóa cho nhau"
+          },
+          {
+            "label": "D",
+            "text": "Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân sinh ra nhiều kết quả và ngược lại. Nguyên nhân và kết quả có thể chuyển hóa cho nhau trong quá trình vận động"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân chi sinh ra một kết quả và ngược lại, nguyên nhân và kết quả không thê chuyển hóa cho nhau",
+        "explanation": "B. Trong điều kiện xác định, nguyên nhân có trước kết quả, một nguyên nhân chi sinh ra một kết quả và ngược lại, nguyên nhân và kết quả không thê chuyển hóa cho nhau"
+      }
+    ]
+  },
+  {
+    "code": "TH15",
+    "number": 15,
+    "title": "Tất nhiên & ngẫu nhiên",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "“Cái riêng – Cái chung” , “Nguyên nhân – Kết quả” , “Tất nhiên – Ngẫu nhiên” , “Nội dung – Hình thức” , “Bản chất – Hiện tượng” , “Khả năng – Hiện thực” đó là các … của triết học Mác – Lênin.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cặp khái niệm"
+          },
+          {
+            "label": "B",
+            "text": "Thuật ngữ cơ bản"
+          },
+          {
+            "label": "C",
+            "text": "Cặp phạm trù cơ bản"
+          },
+          {
+            "label": "D",
+            "text": "Cặp phạm trù"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Cặp phạm trù cơ bản",
+        "explanation": "C. Cặp phạm trù cơ bản"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Luận điểm nào dưới đây là luận điểm Bất khả tri về mối quan hệ giữa cái Tất nhiên và Ngẫu nhiên:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thông qua nghiên cứu nhiều cái ngẫu nhiên để phát hiện cái tất nhiên. Nắm lấy cái tất nhiên để hành động đồng thời dự phòng xử lý kịp thời với cái ngẫu nhiên."
+          },
+          {
+            "label": "B",
+            "text": "Mục đích của nhận thức và hành động là đạt tới cái tất nhiên để có tự do. Nhưng cái tất nhiên tồn tại như vật tự nó nên con người chỉ có thể nắm được cái ngẫu nhiên"
+          },
+          {
+            "label": "C",
+            "text": "Nắm lấy cái tất nhiên, chi phối, điều khiển, phòng ngừa cái ngẫu nhiên. Đó là mục đích của nhận thức và hành động của con người trong khi giải quyết mối quan hệ giữa tất nhiên và ngẫu nhiên."
+          },
+          {
+            "label": "D",
+            "text": "Nắm lấy cái tất nhiên để chi phối, điều khiển, phòng ngừa mặt tác hại của ngẫu nhiên. Đó là mục đích của nhận thức và hành động không phải bằng cách đi từ phân tích ngẫu nhiên mà đi thẳng vào cái tất nhiên."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Mục đích của nhận thức và hành động là đạt tới cái tất nhiên để có tự do. Nhưng cái tất nhiên tồn tại như vật tự nó nên con người chỉ có thể nắm được cái ngẫu nhiên",
+        "explanation": "B. Mục đích của nhận thức và hành động là đạt tới cái tất nhiên để có tự do. Nhưng cái tất nhiên tồn tại như vật tự nó nên con người chỉ có thể nắm được cái ngẫu nhiên"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Tìm câu thể hiện đúng nhất về giá trị phương pháp luận của mối quan hệ giữa cái Tất nhiên và Ngẫu nhiên trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thông qua nghiên cứu nhiều cái ngẫu nhiên để phát hiện cái tất nhiên. Nắm lấy cái tất nhiên để hành động đồng thời dự phòng xử lý kịp thời với cái ngẫu nhiên."
+          },
+          {
+            "label": "B",
+            "text": "Mục đích của nhận thức và hành động là đạt tới cái tất nhiên để có tự do. Nhưng cái tất nhiên tồn tại như vật tự nó nên con người chỉ có thể nắm được cái ngẫu nhiên."
+          },
+          {
+            "label": "C",
+            "text": "Nắm lấy cái tất nhiên, chi phối, điều khiển, phòng ngừa cái ngẫu nhiên. Đó là mục đích của nhận thức và hành động của con người trong khi giải quyết mối quan hệ giữa tất nhiên và ngẫu nhiên."
+          },
+          {
+            "label": "D",
+            "text": "Nắm lấy cái tất nhiên để chi phối, điều khiển, phòng ngừa mặt tác hại của ngẫu nhiên. Nhận thức không phải bằng cách đi từ phân tích ngẫu nhiên mà đi thẳng vào cái tất nhiên."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Nắm lấy cái tất nhiên để chi phối, điều khiển, phòng ngừa mặt tác hại của ngẫu nhiên. Nhận thức không phải bằng cách đi từ phân tích ngẫu nhiên mà đi thẳng vào cái tất nhiên.",
+        "explanation": "D. Nắm lấy cái tất nhiên để chi phối, điều khiển, phòng ngừa mặt tác hại của ngẫu nhiên. Nhận thức không phải bằng cách đi từ phân tích ngẫu nhiên mà đi thẳng vào cái tất nhiên."
+      }
+    ]
+  },
+  {
+    "code": "TH16",
+    "number": 16,
+    "title": "Nội dung & hình thức",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Trong các cụm từ dưới đây, cụm từ nào được xem là” hình thức” trong cặp phạm trù “nội dung – hình thức” mà Phép biện chứng duy vật nghiên cứu: “Truyện Kiều là…”",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tác phẩm của Nguyễn Du"
+          },
+          {
+            "label": "B",
+            "text": "Tác phẩm thơ lục bát"
+          },
+          {
+            "label": "C",
+            "text": "Tác phẩm có bìa màu xanh"
+          },
+          {
+            "label": "D",
+            "text": "Tác phẩm ra đời vào thế kỷ XVIII"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Tác phẩm thơ lục bát",
+        "explanation": "B. Tác phẩm thơ lục bát"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Hãy chỉ ra luận điểm sai về ý nghĩa phương pháp luận của mối quan hệ giữa Nội dung và Hình thức:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trong nhận thức và hành động không được tách rời hoặc tuyệt đối hoá một mặt nội dung hay hình thức."
+          },
+          {
+            "label": "B",
+            "text": "Trong nhận thức và hành động không được tách rời, tuyệt đối hoá một mặt nội dung hay hình thức. Trước hết phải chú trọng vai trò quyết định của hình thức đồng thời coi trọng nội dung."
+          },
+          {
+            "label": "C",
+            "text": "Trong nhận thức và hành động không được tách rời, tuyệt đối hoá một mặt nội dung hay hình thức. Trước hết phải chú trọng vai trò quyết định của nội dung, nhưng phải chú trọng tới hình thức."
+          },
+          {
+            "label": "D",
+            "text": "Trong nhận thức và hành động không được tuyệt đối hoá một mặt nội dung hay hình thức."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Trong nhận thức và hành động không được tách rời, tuyệt đối hoá một mặt nội dung hay hình thức. Trước hết phải chú trọng vai trò quyết định của hình thức đồng thời coi trọng nội dung.",
+        "explanation": "B. Trong nhận thức và hành động không được tách rời, tuyệt đối hoá một mặt nội dung hay hình thức. Trước hết phải chú trọng vai trò quyết định của hình thức đồng thời coi trọng nội dung."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Tìm câu thể hiện đúng nhất về ý nghĩa phương pháp luận của mối quan hệ giữa Nội dung và Hình thức trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trong nhận thức và hành động không được tách rời hoặc tuyệt đối hoá một mặt nội dung hay hình thức. Phải coi trọng nội dung đồng thời phải chú trọng thích đáng tới hình thức, bảo đảm cho nội dung có một hình thức phù hợp nhất. Khi một trong chúng đã tỏ ra lỗi thời thì phải thay đổi cho phù hợp."
+          },
+          {
+            "label": "B",
+            "text": "Trong nhận thức và hành động không được tách rời, tuyệt đối hoá một mặt nội dung hay hình thức. Trước hết phải chú trọng vai trò quyết định của hình thức đồng thời coi trọng nội dung. Khi một trong chúng đã lỗi thời thì phải thay đổi cho phù hợp, chống chủ nghĩa hình thức."
+          },
+          {
+            "label": "C",
+            "text": "Trong nhận thức và hành động không được tách rời, tuyệt đối hoá một mặt nội dung hay hình thức. Trước hết phải chú trọng vai trò quyết định của nội dung."
+          },
+          {
+            "label": "D",
+            "text": "Trong nhận thức và hành động không được tuyệt đối hoá một mặt nội dung hay hình thức."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Trong nhận thức và hành động không được tách rời hoặc tuyệt đối hoá một mặt nội dung hay hình thức. Phải coi trọng nội dung đồng thời phải chú trọng thích đáng tới hình thức, bảo đảm cho nội dung có một hình thức phù hợp nhất. Khi một trong chúng đã tỏ ra lỗi thời thì phải thay đổi cho phù hợp.",
+        "explanation": "A. Trong nhận thức và hành động không được tách rời hoặc tuyệt đối hoá một mặt nội dung hay hình thức. Phải coi trọng nội dung đồng thời phải chú trọng thích đáng tới hình thức, bảo đảm cho nội dung có một hình thức phù hợp nhất. Khi một trong chúng đã tỏ ra lỗi thời thì phải thay đổi cho phù hợp."
+      }
+    ]
+  },
+  {
+    "code": "TH17",
+    "number": 17,
+    "title": "Bản chất & hiện tượng",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Hãy xác định câu trả lời theo quan điểm siêu hình về ý nghĩa phương pháp luận của Mối quan hệ biện chứng giữa Bản chất và Hiện tượng:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hiện tượng thường làm sai lệch bản chất nên cần thận trọng trong nghiên cứu những biểu hiện bên ngoài của sự vật."
+          },
+          {
+            "label": "B",
+            "text": "Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất."
+          },
+          {
+            "label": "C",
+            "text": "Để nghiên cứu bản chất của sự vật cần nghiên cứu toàn diện các hiện tượng của nó."
+          },
+          {
+            "label": "D",
+            "text": "Muốn nhận thức đúng bản chất, con người đi thẳng vào tìm hiểu và nắm lấy bản chất sẽ tránh được sai lầm."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Muốn nhận thức đúng bản chất, con người đi thẳng vào tìm hiểu và nắm lấy bản chất sẽ tránh được sai lầm.",
+        "explanation": "D. Muốn nhận thức đúng bản chất, con người đi thẳng vào tìm hiểu và nắm lấy bản chất sẽ tránh được sai lầm."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tìm câu trả lời đúng nhất về mối quan hệ biện chứng giữa Bản chất và Hiện tượng:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hiện tượng biểu hiện ra bên ngoài của bản chất, thường làm sai lệch bản chất nên tốt nhất là nhận thức, hành động đi thẳng vào bản chất sẽ tránh được sai lầm."
+          },
+          {
+            "label": "B",
+            "text": "Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất."
+          },
+          {
+            "label": "C",
+            "text": "Nhận thức và hành động của con người không thể đạt tới bản chất của sự vật vì nó bị vô số hiện tượng bao bọc bên ngoài, trong đó lại có những hiện tượng làm sai lạc, xuyên tạc bản chất."
+          },
+          {
+            "label": "D",
+            "text": "Chỉ có bản chất mới là mối quan hệ khách quan, còn hiện tượng là mối quan hệ chủ quan do tác động tiêu cực của con người tạo ra làm sai lạc bản chất. Nên muốn nhận thức đúng bản chất, con người đi thẳng vào tìm hiểu và nắm lấy bản chất sẽ tránh được sai lầm."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất.",
+        "explanation": "B. Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Ý nghĩa phương pháp luận của mối quan hệ biện chững giữa hiện tượng và bản chất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hiện tượng là biểu hiện ra bên ngoài của bản chất, thường làm sai lệch bản chất nên tốt nhất là nhận thức, hành động đi thẳng vào bản chất sẽ tránh được sai lầm"
+          },
+          {
+            "label": "B",
+            "text": "Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất"
+          },
+          {
+            "label": "C",
+            "text": "Nhận thức và hành động của con người không thể đạt tới bản chất của sự vật vì nó bị vô số hiện tượng bao bọc bên ngoài, trong đó lại có những hiện tượng làm sai lạc, xuyên tặc bản chất"
+          },
+          {
+            "label": "D",
+            "text": "Chỉ có bản chất mới là mối quan hệ khách quan, còn hiện tượng là mối quan hệ chủ quan do tác động tiêu cực của con người tạo ra làm sai lạc bản chất. Do đó, muốn nhận thức đúng bản chất, con người đi thẳng vào tìm hiểu và nắm lấy bản chất sẽ tránh được sai lầm c."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất",
+        "explanation": "B. Phương pháp nhận thức đúng là đi từ hiện tượng đến bản chất, đi từ bản chất ít sâu sắc đến bản chất sâu sắc hơn, không nhầm lẫn hiện tượng với bản chất"
+      }
+    ]
+  },
+  {
+    "code": "TH18",
+    "number": 18,
+    "title": "Khả năng & hiện thực",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Khả năng là cái hiện thực…",
+        "options": [
+          {
+            "label": "A",
+            "text": "Đã xảy ra."
+          },
+          {
+            "label": "B",
+            "text": "Chưa."
+          },
+          {
+            "label": "C",
+            "text": "Không bao giờ xảy ra."
+          },
+          {
+            "label": "D",
+            "text": "Đang tồn tại."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Chưa.",
+        "explanation": "B. Chưa."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tìm câu trả lời đúng nhất về khả năng nhận thức thế giới hiện thực khách quan của con người trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Con người có khả năng nhận thức thế giới hiện thực khách quan, đối với con người không có điều gì là không thể biết, mà chỉ có cái chưa biết. Sự hiểu biết là một quá trình tuân theo các quy luật biện chứng như mâu thuẫn, lượng chất, phủ định của phủ định và những quy luật khác của tư duy."
+          },
+          {
+            "label": "B",
+            "text": "Con người có khả năng nhận thức thế giới hiện thực khách quan, đối với con người không phải là cái gì cũng biết mà có những cái không thể biết. Sự hiểu biết của con người là quá trình cộng dần những hiểu biết có hạn lại thành cái vô hạn."
+          },
+          {
+            "label": "C",
+            "text": "Con người có khả năng nhận thức thế giới hiện thực khách quan, đối với con người không có gì là không thể biết chỉ có những cái chưa biết. Sự hiểu biết đó diễn ra bằng con đường tích luỹ dần của từng người cộng lại nhiều lần tạo thành."
+          },
+          {
+            "label": "D",
+            "text": "Con người không có khả năng nhận thức thế giới hiện thực khách quan, đối với con người có phần nhận thức đúng, có phần không thể hiểu biết đúng được thế giới. Vì thế giới là mênh mông vô hạn. Còn mỗi con người chỉ là có hạn mà thôi."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Con người có khả năng nhận thức thế giới hiện thực khách quan, đối với con người không có điều gì là không thể biết, mà chỉ có cái chưa biết. Sự hiểu biết là một quá trình tuân theo các quy luật biện chứng như mâu thuẫn, lượng chất, phủ định của phủ định và những quy luật khác của tư duy.",
+        "explanation": "A. Con người có khả năng nhận thức thế giới hiện thực khách quan, đối với con người không có điều gì là không thể biết, mà chỉ có cái chưa biết. Sự hiểu biết là một quá trình tuân theo các quy luật biện chứng như mâu thuẫn, lượng chất, phủ định của phủ định và những quy luật khác của tư duy."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Ở tronng lĩnh vực… khả năng không thể tự nó biến thành hiện thực nếu không có sự tham gia của con người.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tự nhiên."
+          },
+          {
+            "label": "B",
+            "text": "Tự nhiên và xã hội."
+          },
+          {
+            "label": "C",
+            "text": "Xã hội."
+          },
+          {
+            "label": "D",
+            "text": "Tự nhiên và tư duy."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Xã hội.",
+        "explanation": "C. Xã hội."
+      }
+    ]
+  },
+  {
+    "code": "TH19",
+    "number": 19,
+    "title": "Thực tiễn & vai trò của thực tiễn",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Xác định câu trả lời đúng vai trò của thực tiễn:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Là cơ sở, mục đích, động lực chủ yêdu và trực tiếp của nhận thức và là tiêu chuẩn của chân lý."
+          },
+          {
+            "label": "B",
+            "text": "Là nguồn gốc, cơ sở, mục đích của nhận thức."
+          },
+          {
+            "label": "C",
+            "text": "Là mục đích, cơ sở, động lực của nhận thức và làm tiêu chuẩn cho kinh nghiệm"
+          },
+          {
+            "label": "D",
+            "text": "Là thước đo để phát hiện sự đúng sai của cảm giác, của kinh nghiệm và của chân lý."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Là cơ sở, mục đích, động lực chủ yêdu và trực tiếp của nhận thức và là tiêu chuẩn của chân lý.",
+        "explanation": "A. Là cơ sở, mục đích, động lực chủ yêdu và trực tiếp của nhận thức và là tiêu chuẩn của chân lý."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tìm câu thiếu nội dung nhất về vai trò của thực tiễn đối với nhận thức trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Là cơ sở, mục đích, động lực chủ yếu và trực tiếp của nhận thức và là tiêu chuẩn của chân lý"
+          },
+          {
+            "label": "B",
+            "text": "Là nguồn gốc, cơ sở, mục đích của nhận thức"
+          },
+          {
+            "label": "C",
+            "text": "Là mục đích, cơ sở, động lực của nhận thức và làm tiêu chuẩn cho kinh nghiệm"
+          },
+          {
+            "label": "D",
+            "text": "Thước đo để phát hiện sự đúng sai của cảm giác, của kinh nghiệm và của lý luận"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Thước đo để phát hiện sự đúng sai của cảm giác, của kinh nghiệm và của lý luận",
+        "explanation": "D. Thước đo để phát hiện sự đúng sai của cảm giác, của kinh nghiệm và của lý luận"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Nêu vai trò của thực tiễn đối với nhận thức? Xác đinh câu trả lời thiếu nội dung nhất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chân lý là tri thức phản ánh đúng hiện thực khách quan và đã được thực tiễn kiểm nghiệm, vì"
+          },
+          {
+            "label": "B",
+            "text": "Giới động vật và thực vật hoàn toàn tách rời nhau, không có nguồn gốc chung"
+          },
+          {
+            "label": "C",
+            "text": "Sự phát huy tính năng động chủ quan của con người muốn có hiệu quả bao giờ cũng phải dựa"
+          },
+          {
+            "label": "D",
+            "text": "Chân lý chỉ tồn tại trong nhận thức con người. Vì vậy nội dung của chân lý là do chủ quan của con người tạo ra"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Chân lý chỉ tồn tại trong nhận thức con người. Vì vậy nội dung của chân lý là do chủ quan của con người tạo ra",
+        "explanation": "D. Chân lý chỉ tồn tại trong nhận thức con người. Vì vậy nội dung của chân lý là do chủ quan của con người tạo ra"
+      }
+    ]
+  },
+  {
+    "code": "TH20",
+    "number": 20,
+    "title": "Nhận thức & các giai đoạn",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch2_La11-20.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Quá trình tư duy diễn ra qua các khâu: Cơ thể – tác động bên ngoài – cảm giác – tưởng tượng – tư duy, là khái quát của nhà triết học nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Arixtốt"
+          },
+          {
+            "label": "B",
+            "text": "Hêraclit"
+          },
+          {
+            "label": "C",
+            "text": "Đêmôcrit"
+          },
+          {
+            "label": "D",
+            "text": "Platôn"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Arixtốt",
+        "explanation": "A. Arixtốt"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Luận điểm sau đây thuộc lập trường triết học nào: \"Chúng ta chỉ nhận thức được các cảm giác của chúng ta thôi\".",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy tâm khách quan"
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa duy tâm chủ quan"
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy vật siêu hình"
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy vật biện chứng"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Chủ nghĩa duy tâm chủ quan",
+        "explanation": "B. Chủ nghĩa duy tâm chủ quan"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Trong vấn đề nhận thức luận, khi La Mettri nói: nhờ cơ quan cảm giác mà người ta suy nghĩ, giác quan là kẻ đáng tin cậy trong đời sống hàng ngày, La Mettri đứng trên quan điểm nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Duy lý"
+          },
+          {
+            "label": "B",
+            "text": "Duy vật biện chứng"
+          },
+          {
+            "label": "C",
+            "text": "Duy giác luận"
+          },
+          {
+            "label": "D",
+            "text": "Bất khả tri"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Duy giác luận",
+        "explanation": "C. Duy giác luận"
+      }
+    ]
+  },
+  {
+    "code": "TH21",
+    "number": 21,
+    "title": "Chân lý",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Câu nào dưới đây trả lời đúng nhất về những tính chất của Chân lý:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chân lý có tính cụ thể, có nội dung khách quan, vừa có tính tuyệt đối, vừa có tính tương đối."
+          },
+          {
+            "label": "B",
+            "text": "Không có chân lý trừu tượng, chân lý có hình thức chủ quan, nội dung khách quan, không có tính tương đối vì chân lý luôn luôn đúng trong mọi hoàn cảnh."
+          },
+          {
+            "label": "C",
+            "text": "Chân lý có nội dung khách quan, hình thức chủ quan, chân lý có tính trừu tượng cao siêu, chân lý còn có tính tuyệt đối và tính tương đối."
+          },
+          {
+            "label": "D",
+            "text": "Chân lý có hình thức chủ quan và nội dung khách quan, chân lý bao giờ cũng cụ thể, chỉ có chân lý tương đối, không có chân lý tuyệt đối vì thực tiễn luôn luôn biến đổi và nhận thức con người là có hạn."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Chân lý có tính cụ thể, có nội dung khách quan, vừa có tính tuyệt đối, vừa có tính tương đối.",
+        "explanation": "A. Chân lý có tính cụ thể, có nội dung khách quan, vừa có tính tuyệt đối, vừa có tính tương đối."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Xác định quan niệm sai về Chân lý trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nội dung chân lý là chủ quan vì nó do đầu óc con người tạo ra."
+          },
+          {
+            "label": "B",
+            "text": "Chân lý bao giờ cũng cụ thể, không có chân lý trừu tượng."
+          },
+          {
+            "label": "C",
+            "text": "Có thể hiểu chân lý cũng là sự phù hợp giữa chủ quan với khách quan."
+          },
+          {
+            "label": "D",
+            "text": "Chân lý là kiến thức đúng đắn được thực tiễn kiểm nghiệm."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Nội dung chân lý là chủ quan vì nó do đầu óc con người tạo ra.",
+        "explanation": "A. Nội dung chân lý là chủ quan vì nó do đầu óc con người tạo ra."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Hãy xác định ý kiến đúng nhất về chân lý trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chân lý là quan điểm được đa số ủng hộ."
+          },
+          {
+            "label": "B",
+            "text": "Chân lý là quan điểm được mọi người trong cuộc họp bỏ phiếu tán thành."
+          },
+          {
+            "label": "C",
+            "text": "Chân lý là một quan điểm được nhiều nhà khoa học thừa nhận."
+          },
+          {
+            "label": "D",
+            "text": "Chân lý là một quan điểm được chứng minh trong thực tiễn là đúng."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Chân lý là một quan điểm được chứng minh trong thực tiễn là đúng.",
+        "explanation": "D. Chân lý là một quan điểm được chứng minh trong thực tiễn là đúng."
+      }
+    ]
+  },
+  {
+    "code": "TH22",
+    "number": 22,
+    "title": "Sản xuất vật chất",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Quan niệm nào về sản xuất vật chất sau đây là đúng:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sản xuất vật chất là quá trình con người tác động vào tự nhiên làm biến đổi tự nhiên"
+          },
+          {
+            "label": "B",
+            "text": "Sản xuất vật chất là quá trình tạo ra của cải vật chất"
+          },
+          {
+            "label": "C",
+            "text": "Sản xuất vật chất là quá trình sản xuất xã hội"
+          },
+          {
+            "label": "D",
+            "text": "Sản xuất vật chất là quá trình tạo ra tư liệu sản xuất"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Sản xuất vật chất là quá trình tạo ra của cải vật chất",
+        "explanation": "B. Sản xuất vật chất là quá trình tạo ra của cải vật chất"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Phương thức sản xuất đời sống vật chất phụ thuộc vào đời sống chính trị, đời sống xã hội và đời sống tinh thần ní chung. Luận điểm ày đã viết sai cụm từ nào? chọn câu trả lời đúng nhất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Phụ thuộc"
+          },
+          {
+            "label": "B",
+            "text": "Phương thức sản xuất"
+          },
+          {
+            "label": "C",
+            "text": "Đời sống chính trị"
+          },
+          {
+            "label": "D",
+            "text": "Đời sống tinh thần"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Phụ thuộc",
+        "explanation": "A. Phụ thuộc"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Phương thức sản xuất đời sống vật chất....................... toàn bộ đời sống xã hội, đời sống chính trị và đời sống tinh thần của xã hội. Luận điểm này viết thiếu hai từ. Hãy chọn cụm từ đúng nhất cho chỗ viết thiếu đó:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chi phối"
+          },
+          {
+            "label": "B",
+            "text": "Liên quan"
+          },
+          {
+            "label": "C",
+            "text": "Thúc đẩy"
+          },
+          {
+            "label": "D",
+            "text": "Phụ thuộc"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Chi phối",
+        "explanation": "A. Chi phối"
+      }
+    ]
+  },
+  {
+    "code": "TH23",
+    "number": 23,
+    "title": "Lực lượng sản xuất",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Hãy phát hiện một điểm tóm tắt sai nội dung mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lực lượng sản xuất và quan hệ ản xuất là hai mặt của phương thức sản xuất tồn tại không tách rời nhau"
+          },
+          {
+            "label": "B",
+            "text": "Tác động biện chứng giữa hai mặt đó tạo thành quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất"
+          },
+          {
+            "label": "C",
+            "text": "Đó là quy luật xã hội phổ biến trong tất cả các xã họi khong có đối khàn giai cấp"
+          },
+          {
+            "label": "D",
+            "text": "Quy luật này vạch rõ sự phụ thuộc khách quan của quan hệ sản xuất vào sự phát triển của lực lượng sản xuất, đồng thời quan hệ vật chất cũng tác động trở lại lực lượng sản xuất"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Đó là quy luật xã hội phổ biến trong tất cả các xã họi khong có đối khàn giai cấp",
+        "explanation": "C. Đó là quy luật xã hội phổ biến trong tất cả các xã họi khong có đối khàn giai cấp"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Phát hiện luận điểm sai về Lực lượng sản xuất trong các luận điểm sau đây:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Đối tượng lao động là yếu tố động nhất và cách mạng nhất trong Lực lượng sản xuất."
+          },
+          {
+            "label": "B",
+            "text": "Tư liệu lao động là cơ sở của sự kế tục lịch sử xã hội."
+          },
+          {
+            "label": "C",
+            "text": "Cái cối xay quay bằng tay đưa lại xã hội có lãnh chúa phong kiến."
+          },
+          {
+            "label": "D",
+            "text": "Năng suất lao động xã hội là thước đo trình độ phát triển của Lực lượng sản xuất."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Đối tượng lao động là yếu tố động nhất và cách mạng nhất trong Lực lượng sản xuất.",
+        "explanation": "A. Đối tượng lao động là yếu tố động nhất và cách mạng nhất trong Lực lượng sản xuất."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Câu nói sau của V.I.Lênin là trong tác phẩm nào: “Chỉ có đem qui những quan hệ xã hội vào những quan hệ sản xuất và đem quy những quan hệ sản xuất vào trình độ của những lực lượng sản xuất thì người ta mới có được cơ sở vững chắc để quan niệm sự phát triển của những hình thái kinh tế – xã hội là một quá trình lịch sử – tự nhiên”.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nhà nước và cách mạng"
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa tư bản ở Nga"
+          },
+          {
+            "label": "C",
+            "text": "Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ xã hội ra sao."
+          },
+          {
+            "label": "D",
+            "text": "Làm gì?"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ xã hội ra sao.",
+        "explanation": "C. Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ xã hội ra sao."
+      }
+    ]
+  },
+  {
+    "code": "TH24",
+    "number": 24,
+    "title": "Quan hệ sản xuất",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Những cuộc cách mạng thời kỳ cận đại ở Tây Âu do mâu thuẫn giữa lực lượng sản xuất với quan hệ sản xuất nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mâu thuẫn giữa lực lượng sản xuất mới với QHSX phong kiến đã trở nên lỗi thời"
+          },
+          {
+            "label": "B",
+            "text": "Mâu thuẫn giữa nông dân và địa chủ phong kiến"
+          },
+          {
+            "label": "C",
+            "text": "Mâu thuẫn giữa nô lệ và chủ nô"
+          },
+          {
+            "label": "D",
+            "text": "Mâu thuẫn giữa tư sản và vô sản"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Mâu thuẫn giữa lực lượng sản xuất mới với QHSX phong kiến đã trở nên lỗi thời",
+        "explanation": "A. Mâu thuẫn giữa lực lượng sản xuất mới với QHSX phong kiến đã trở nên lỗi thời"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất là quy luật..................................... của sự phát triển. Luận điểm này bị viết thiếu hai từ. hãy chon ra cụm từ đúng cho chỗ viết thiếu đó:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chung nhất"
+          },
+          {
+            "label": "B",
+            "text": "Tạm thời"
+          },
+          {
+            "label": "C",
+            "text": "Riêng biệt"
+          },
+          {
+            "label": "D",
+            "text": "Đặc thù"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Chung nhất",
+        "explanation": "A. Chung nhất"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Hãy phát hiện một điểm tóm tắt sai nội dung về mối quan hệ giữa lực lượng sản xuất với quan hệ sản xuất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lực lượng sản xuất là hình thức còn quan hệ sản xuất là nội dung của phương thức sản xuất"
+          },
+          {
+            "label": "B",
+            "text": "Tác động biện chứng giữa hai mặt đó tạo thành quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất"
+          },
+          {
+            "label": "C",
+            "text": "Đó là quy luật xã hội phổ biến của toàn bộ lịch sử loài người"
+          },
+          {
+            "label": "D",
+            "text": "Quy luật này vạch rõ sự phụ thuộc khách quan của quan hệ sản xuất vào sự phát triển của lực lượng sản xuất đồng thời quan hệ sản xuất cũng tác động lại lực lượng sản xuất"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Lực lượng sản xuất là hình thức còn quan hệ sản xuất là nội dung của phương thức sản xuất",
+        "explanation": "A. Lực lượng sản xuất là hình thức còn quan hệ sản xuất là nội dung của phương thức sản xuất"
+      }
+    ]
+  },
+  {
+    "code": "TH25",
+    "number": 25,
+    "title": "Quy luật QHSX phù hợp LLSX",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Tìm câu tóm tắt sai về mối quan hệ biện chứng giữa Lực lượng sản xuất và Quan hệ sản xuất trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lực lượng sản xuất và Quan hệ sản xuất là hai mặt của Phương thức sản xuất, tồn tại không tách rời nhau."
+          },
+          {
+            "label": "B",
+            "text": "Mối quan hệ biện chứng giữa Lực lượng sản xuất và Quan hệ sản xuất là nội dung quy luật về sự phù hợp của Quan hệ sản xuất với trình độ và tính chất của Lực lượng sản xuất."
+          },
+          {
+            "label": "C",
+            "text": "Quy luật về sự phù hợp của Quan hệ sản xuất với trình độ và tính chất của Lực lượng sản xuất là quy luật xã hội phổ biến trong tất cả các xã hội có đối kháng giai cấp."
+          },
+          {
+            "label": "D",
+            "text": "Quy luật về sự phù hợp của Quan hệ sản xuất với trình độ và tính chất của Lực lượng sản xuất vạch rõ sự phụ thuộc khách quan của Quan hệ sản xuất vào sự phát triển của Lực lượng sản xuất, đồng thời Quan hệ sản xuất cũng tác động trở lại Lực lượng sản xuất."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Quy luật về sự phù hợp của Quan hệ sản xuất với trình độ và tính chất của Lực lượng sản xuất là quy luật xã hội phổ biến trong tất cả các xã hội có đối kháng giai cấp.",
+        "explanation": "C. Quy luật về sự phù hợp của Quan hệ sản xuất với trình độ và tính chất của Lực lượng sản xuất là quy luật xã hội phổ biến trong tất cả các xã hội có đối kháng giai cấp."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Hãy chỉ ra một nguyên tắc nhận thức và hành động để khắc phục biện pháp chủ quan duy ý chí không phù hợp trong những nguyên tắc sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lấy ý chí và nguyện vọng làm điểm xuất phát cho mọi chủ trương, kế hoạch công tác"
+          },
+          {
+            "label": "B",
+            "text": "Tôn trọng và hành động theo quy luật khách quan"
+          },
+          {
+            "label": "C",
+            "text": "Nhìn thẳng vào sự vật, đánh giá đúng sự thật, nói rõ sự thật"
+          },
+          {
+            "label": "D",
+            "text": "Lấy dân làm gốc, lawgs nghe nguyện vọng chính đáng của dân"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Lấy ý chí và nguyện vọng làm điểm xuất phát cho mọi chủ trương, kế hoạch công tác",
+        "explanation": "A. Lấy ý chí và nguyện vọng làm điểm xuất phát cho mọi chủ trương, kế hoạch công tác"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Có thể tóm tắt nội dung mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất theo các điểm sau đây: Hãy phát hiện một điểm tóm tắt sai nội dung?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lực lượng sản xuất và quan hệ sản xuất là hai mặt của phương thức sản xuất, tồn tai tách rời nhau"
+          },
+          {
+            "label": "B",
+            "text": "Tác động biện chứng giữa hai mặt đó tạo thành quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất"
+          },
+          {
+            "label": "C",
+            "text": "Đó là quy luật xã hội phổ biến của toàn bộ lịch sử loài người"
+          },
+          {
+            "label": "D",
+            "text": "Quy luật này vạch rõ sự phụ thuộc khách quan của quan hệ sản xuất vào sự phát triển của lực lượng sản xuất đồng thời quan hệ sản xuất cũng tác động trở lại lực lượng sản xuất"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Lực lượng sản xuất và quan hệ sản xuất là hai mặt của phương thức sản xuất, tồn tai tách rời nhau",
+        "explanation": "A. Lực lượng sản xuất và quan hệ sản xuất là hai mặt của phương thức sản xuất, tồn tai tách rời nhau"
+      }
+    ]
+  },
+  {
+    "code": "TH26",
+    "number": 26,
+    "title": "Cơ sở hạ tầng & kiến trúc thượng tầng",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Xác định lập trường duy vật lịch sử về mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng trong các đáp án sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Quy luật về mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là cơ sở khoa học cho việc nhận thức một cách đúng đắn mối quan hệ giữa văn hóa và xã hội."
+          },
+          {
+            "label": "B",
+            "text": "Quy luật về mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là cơ sở khoa học cho việc nhận thức một cách đúng đắn mối quan hệ giữa kinh tế và chính trị."
+          },
+          {
+            "label": "C",
+            "text": "Quy luật về mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là cơ sở khoa học cho việc nhận thức một cách đúng đắn mối quan hệ giữa tôn giáo và nghệ thuật."
+          },
+          {
+            "label": "D",
+            "text": "Quy luật về mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là cơ sở khoa học cho việc nhận thức một cách đúng đắn mối quan hệ giữa đạo đức và pháp quyền."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Quy luật về mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là cơ sở khoa học cho việc nhận thức một cách đúng đắn mối quan hệ giữa kinh tế và chính trị.",
+        "explanation": "B. Quy luật về mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là cơ sở khoa học cho việc nhận thức một cách đúng đắn mối quan hệ giữa kinh tế và chính trị."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Hãy phát hiện một điểm tóm tắt trong đó có nội dung sai về mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Từ trong toàn bộ các quan hệ xã hội hết sưc phức tạp Mác đã phân biệt những quan hệ vật chất tạo nên cơ sở hạ tầng xã hội, với những quan hệ tư tưởng tinh thần tại lên kiến trúc thượng tầng của xã hội"
+          },
+          {
+            "label": "B",
+            "text": "Cơ sở hạ tầng là toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của một xã hội nhất định"
+          },
+          {
+            "label": "C",
+            "text": "Kiến trúc thượng tầng là toàn bộ những quan điểm xã hội, những thiết chế tương ứng và những quan hệ nội tại của thượng tầng, hignh thành trên một cơ sở hạ tầng nhất định"
+          },
+          {
+            "label": "D",
+            "text": "Cơ sở hạ tầng nào thì sinh ra kiến trúc thượng tầng ấy nên giữa chúng luôn luôn không có sự mâu thuẫn nào cả"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cơ sở hạ tầng nào thì sinh ra kiến trúc thượng tầng ấy nên giữa chúng luôn luôn không có sự mâu thuẫn nào cả",
+        "explanation": "D. Cơ sở hạ tầng nào thì sinh ra kiến trúc thượng tầng ấy nên giữa chúng luôn luôn không có sự mâu thuẫn nào cả"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Có thể tóm tắt mối quan hệ giữa cơ sở hạ tầng với kiến trúc thượng tầng theo mấy điểm sau. Hãy phát hiện một điểm tóm tát trong đó có nội dung sai?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Từ trong toàn bộ các quan hệ hết sức phức tạp Mác đã phân biệt những quan hệ vật chất tạo nên cơ sở hạ tầng của xã hội, với những quan hệ tư tưởng tinh thần tạo nên kiến trúc thượng tầng của xã hội"
+          },
+          {
+            "label": "B",
+            "text": "Cơ sở hạ tầng là toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của một xã hội nhất định"
+          },
+          {
+            "label": "C",
+            "text": "Kiến thức thượng tầng là toàn bộ những quan điểm xã hội, những thiết chế tương ứng và những quan hệ nội tại của thượng tầng, hình thành trên một cơ sở hạ tầng nhất định"
+          },
+          {
+            "label": "D",
+            "text": "Cơ sở hạ tầng nào thì sinh ra kiến trúc thượng tầng ấy đồng thời kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng. Bất cứ sự biến đổi nào trong kiến trúc thượng tầng cũng được giải thích chỉ bằng những nguyên nhân kinh tế"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cơ sở hạ tầng nào thì sinh ra kiến trúc thượng tầng ấy đồng thời kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng. Bất cứ sự biến đổi nào trong kiến trúc thượng tầng cũng được giải thích chỉ bằng những nguyên nhân kinh tế",
+        "explanation": "D. Cơ sở hạ tầng nào thì sinh ra kiến trúc thượng tầng ấy đồng thời kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng. Bất cứ sự biến đổi nào trong kiến trúc thượng tầng cũng được giải thích chỉ bằng những nguyên nhân kinh tế"
+      }
+    ]
+  },
+  {
+    "code": "TH27",
+    "number": 27,
+    "title": "Hình thái kinh tế - xã hội",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Tìm câu bị viết sai về vai trò Quan hệ sản xuất trong một Hình thái kinh tế - xã hội:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Quan hệ sản xuất là quan hệ cơ bản, quyết định tất cả các quan hệ xã hội khác"
+          },
+          {
+            "label": "B",
+            "text": "Quan hệ sản xuất là cơ sở kinh tế của các hiện tượng xã hội"
+          },
+          {
+            "label": "C",
+            "text": "Quan hệ sản xuất thể hiện tính liên tục trong sự phát triển của xã hội loài người"
+          },
+          {
+            "label": "D",
+            "text": "Quan hệ sản xuất tiêu biểu cho bộ mặt của xã hội ở mỗi giai đoạn phát triển nhất định"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Quan hệ sản xuất thể hiện tính liên tục trong sự phát triển của xã hội loài người",
+        "explanation": "C. Quan hệ sản xuất thể hiện tính liên tục trong sự phát triển của xã hội loài người"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tìm câu viết sai về vai trò Lực lượng sản xuất trong một Hình thái kinh tế - xã hội:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lực lượng sản xuất là nền tảng vật chất- kỹ thuật của xã hội."
+          },
+          {
+            "label": "B",
+            "text": "Lực lượng sản xuất là nhân tố, xét đến cùng, quyết định sự hình thành và phát triển của mọi xã hội."
+          },
+          {
+            "label": "C",
+            "text": "Lực lượng sản xuất thể hiện tính liên tục trong sự phát triển của xã hội loài người."
+          },
+          {
+            "label": "D",
+            "text": "Lực lượng sản xuất tiêu biểu cho bộ mặt của xã hội ở mỗi giai đoạn phát triển."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Lực lượng sản xuất tiêu biểu cho bộ mặt của xã hội ở mỗi giai đoạn phát triển.",
+        "explanation": "D. Lực lượng sản xuất tiêu biểu cho bộ mặt của xã hội ở mỗi giai đoạn phát triển."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Thời kỳ Phục Hưng là thời kỳ quá độ từ hình thái kinh tế - xã hội nào sang hình thái kinh tế - xã hội nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Từ hình thái kinh tế - xã hội chiếm hữu nô lệ sang hình thái kinh tế - xã hội phong kiến."
+          },
+          {
+            "label": "B",
+            "text": "Từ hình thái kinh tế - xã hội phong kiến sang kình thái kinh tế - xã hội tư bản chủ nghĩa."
+          },
+          {
+            "label": "C",
+            "text": "Từ hình thái kinh tế - xã hội TBCN sang hình thái kinh tế - xã hội XHCN."
+          },
+          {
+            "label": "D",
+            "text": "Từ hình thái kinh tế xã hội cộng sản nguyên thuỷ sang hình thái kinh tế xã hội chiếm hữu nô lệ"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Từ hình thái kinh tế - xã hội phong kiến sang kình thái kinh tế - xã hội tư bản chủ nghĩa.",
+        "explanation": "B. Từ hình thái kinh tế - xã hội phong kiến sang kình thái kinh tế - xã hội tư bản chủ nghĩa."
+      }
+    ]
+  },
+  {
+    "code": "TH28",
+    "number": 28,
+    "title": "Tồn tại xã hội & ý thức xã hội",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Ý thức xã hội không phụ thuộc vào tồn tại xã hội một cách thụ động mà có tác động tích cực trở lại tồn tại xã hội, đó là sự thể hiện:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tính độc lập tương đối của ý thức xã hội."
+          },
+          {
+            "label": "B",
+            "text": "Tính hướng định của ý thức xã hội."
+          },
+          {
+            "label": "C",
+            "text": "Tính vượt trước của ý thức xã hội."
+          },
+          {
+            "label": "D",
+            "text": "Cả a và b."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Tính độc lập tương đối của ý thức xã hội.",
+        "explanation": "A. Tính độc lập tương đối của ý thức xã hội."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Quan điểm “Ý thức xã hội là cái phản ánh tồn tại xã hội, vì vậy nó không có vai trò gì đối với tồn tại xã hội” biểu hiện lập trường triết học nào dưới đây:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nhị nguyên luận."
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa Duy vật lịch sử."
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa Duy vật siêu hình."
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa Duy tâm lịch sử."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Chủ nghĩa Duy vật siêu hình.",
+        "explanation": "C. Chủ nghĩa Duy vật siêu hình."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Ý thức xã hội là cái phản ánh tồn tai xã hội, vì vậy nó không có vai trò gì đối với tồn tại xã hội. Quan điểm này thuộc lập trường triết học nào? Chọn câu trả lời đúng nhất:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy vật biện chứng lịch sử"
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa dy tâm lịch sử"
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy vật siêu hình"
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy vật tầm thường( Chủ nghĩa duy vật kinh tế)"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Chủ nghĩa duy vật siêu hình",
+        "explanation": "C. Chủ nghĩa duy vật siêu hình"
+      }
+    ]
+  },
+  {
+    "code": "TH29",
+    "number": 29,
+    "title": "Giai cấp & đấu tranh giai cấp",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Kết cấu giai cấp trong xã hội có giai cấp thường gồm:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Các giai cấp cơ bản."
+          },
+          {
+            "label": "B",
+            "text": "Các giai cấp cơ bản và các giai cấp không cơ bản."
+          },
+          {
+            "label": "C",
+            "text": "Các giai cấp cơ bản, các giai cấp không cơ bản và tầng lớp trung gian."
+          },
+          {
+            "label": "D",
+            "text": "Các giai cấp đối kháng"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Các giai cấp cơ bản, các giai cấp không cơ bản và tầng lớp trung gian.",
+        "explanation": "C. Các giai cấp cơ bản, các giai cấp không cơ bản và tầng lớp trung gian."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tìm luận điểm viết sai về đặc trưng cơ bản của giai cấp trong các luận điểm sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Giai cấp là những tập đoàn người có địa vị kinh tế - xã hội khác nhau trong một hệ thống sản xuất xã hội nhất định trong lịch sử."
+          },
+          {
+            "label": "B",
+            "text": "Dấu hiệu chủ yếu quy đinh địa vị kinh tế-xã hội của các giai cấp là các mối quan hệ kinh tế - vật chất giữa các tập đoàn người trong phương thức sản xuất."
+          },
+          {
+            "label": "C",
+            "text": "Thực chất của quan hệ giai cấp là quan hệ giữa bóc lột và bị bóc lột, là tập đoàn người này chiếm đoạt lao động của tập đoàn người khác do đối lập về địa vị trong một chế độ kinh tế - xã hội nhất định."
+          },
+          {
+            "label": "D",
+            "text": "Giai cấp là những tập đoàn người có địa vị văn hóa - xã hội khác nhau trong một hệ thống sản xuất xã hội nhất định trong lịch sử."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Giai cấp là những tập đoàn người có địa vị văn hóa - xã hội khác nhau trong một hệ thống sản xuất xã hội nhất định trong lịch sử.",
+        "explanation": "D. Giai cấp là những tập đoàn người có địa vị văn hóa - xã hội khác nhau trong một hệ thống sản xuất xã hội nhất định trong lịch sử."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Luận điểm sau của C.Mác: “Sự tồn tại của các giai cấp chỉ gắn liền với những giai đoạn phát triển lịch sử nhất định của sản xuất” được hiểu theo nghĩa:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Giai cấp chỉ là một phạm trù lịch sử"
+          },
+          {
+            "label": "B",
+            "text": "Sự tồn tại của giai cấp gắn liền với lịch sử của sản xuất"
+          },
+          {
+            "label": "C",
+            "text": "Sự tồn tại giai cấp chỉ gắn liền với các giai đoạn phát triển nhất định của sản xuất"
+          },
+          {
+            "label": "D",
+            "text": "Cả A và C"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả A và C",
+        "explanation": "D. Cả A và C"
+      }
+    ]
+  },
+  {
+    "code": "TH30",
+    "number": 30,
+    "title": "Nhà nước",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch3_La21-30.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Trong các hình thức nhà nước dưới đây, hình thức nào thuộc về kiểu nhà nước phong kiến?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Quân chủ lập hiến, cộng hoà đại nghị"
+          },
+          {
+            "label": "B",
+            "text": "Quân chủ tập quyền, quân chủ phân quyền"
+          },
+          {
+            "label": "C",
+            "text": "Chính thể quân chủ, chính thể cộng hoà"
+          },
+          {
+            "label": "D",
+            "text": "Quân chủ chuyên chế"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Quân chủ tập quyền, quân chủ phân quyền",
+        "explanation": "B. Quân chủ tập quyền, quân chủ phân quyền"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân ở nước ta hiện nay cần:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tăng cường sự lãnh đạo của Đảng"
+          },
+          {
+            "label": "B",
+            "text": "Dân chủ hoá tổ chức và hoạt động của bộ máy nhà nước"
+          },
+          {
+            "label": "C",
+            "text": "Xây dựng hệ thống luật pháp hoàn chỉnh và phân lập rõ các quyền lập pháp, hành pháp và tư pháp."
+          },
+          {
+            "label": "D",
+            "text": "Cả A và B"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả A và B",
+        "explanation": "D. Cả A và B"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Câu nói sau của Ph.Ăngghen: “Nhà nước là yếu tố tuỳ thuộc, còn xã hội công dân tức là lĩnh vực những quan hệ kinh tế, là yếu tố quyết định”, được nêu trong tác phẩm:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Lutvich Phoiơbắc và sự cáo chung của triết học cổ điển Đức"
+          },
+          {
+            "label": "B",
+            "text": "Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước"
+          },
+          {
+            "label": "C",
+            "text": "Chống Đuyrinh"
+          },
+          {
+            "label": "D",
+            "text": "Biện chứng của tự nhiên"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Lutvich Phoiơbắc và sự cáo chung của triết học cổ điển Đức",
+        "explanation": "A. Lutvich Phoiơbắc và sự cáo chung của triết học cổ điển Đức"
+      }
+    ]
+  },
+  {
+    "code": "TH31",
+    "number": 31,
+    "title": "Cách mạng xã hội",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Vai trò của cải cách xã hội đối với cách mạng xã hội:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cải cách xã hội không có quan hệ với cách mạng xã hội"
+          },
+          {
+            "label": "B",
+            "text": "Cải cách xã hội thúc đẩy quá trình tiến hóa xã hội, từ đó tạo tiền đề cho cách mạng xã hội"
+          },
+          {
+            "label": "C",
+            "text": "Cải cách xã hội của lực lượng xã hội tiến bộ và trong hoàn cảnh nhất định trở thành bộ phận hợp thành của cách mạng xã hội."
+          },
+          {
+            "label": "D",
+            "text": "Cả B và C"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả B và C",
+        "explanation": "D. Cả B và C"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Điều kiện không thể thiếu để cuộc cách mạng xã hội đạt tới thành công theo quan điểm của chủ nghĩa Mác-Lênin:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bạo lực cách mạng"
+          },
+          {
+            "label": "B",
+            "text": "Sự giúp đỡ quốc tế"
+          },
+          {
+            "label": "C",
+            "text": "Giai cấp thống trị phản động tự nó không duy trì được địa vị thống trị"
+          },
+          {
+            "label": "D",
+            "text": "Sự khủng hoảng của chế độ xã hội cũ"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Bạo lực cách mạng",
+        "explanation": "A. Bạo lực cách mạng"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Quan niệm “Sự thay thế phương thức sản xuất đã lỗi thời bằng phương thức sản xuất tiến bộ hơn, đó là cách mạng xã hội” thuộc lập trường triết học nào dưới đây:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa Duy vật lịch sử."
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa Duy tâm lịch sử."
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa Duy vật tầm thường."
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa Duy vật siêu hình."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Chủ nghĩa Duy vật lịch sử.",
+        "explanation": "A. Chủ nghĩa Duy vật lịch sử."
+      }
+    ]
+  },
+  {
+    "code": "TH32",
+    "number": 32,
+    "title": "Phép biện chứng duy tâm (Hêghen)",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Trong triết học của Hêghen giữa tinh thần và tự nhiên quan hệ với nhau như thế nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tinh thần là kết quả phát triển của tự nhiên."
+          },
+          {
+            "label": "B",
+            "text": "Tinh thần là thuộc tính của tự nhiên"
+          },
+          {
+            "label": "C",
+            "text": "Tự nhiên là sản phẩm của tinh thần, là một tồn tại khác của tinh thần."
+          },
+          {
+            "label": "D",
+            "text": "Tự nhiên là nguồn gốc của tinh thần."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Tự nhiên là sản phẩm của tinh thần, là một tồn tại khác của tinh thần.",
+        "explanation": "C. Tự nhiên là sản phẩm của tinh thần, là một tồn tại khác của tinh thần."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Tại sao C.Mác nói phép biện chứng của G.W.Ph.Hêghen là phép biện chứng lộn đầu xuống đất?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thừa nhận sự tồn tại khách quan của thế giới vật chất."
+          },
+          {
+            "label": "B",
+            "text": "Thừa nhận tinh thần là sản phẩm của thế giới vật chất."
+          },
+          {
+            "label": "C",
+            "text": "Thừa nhận sự tồn tại độc lập của tinh thần."
+          },
+          {
+            "label": "D",
+            "text": "Thừa nhận tự nhiên, xã hội là sản phẩm của quá trình phát triển của tinh thần, của ý niệm."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Thừa nhận tự nhiên, xã hội là sản phẩm của quá trình phát triển của tinh thần, của ý niệm.",
+        "explanation": "D. Thừa nhận tự nhiên, xã hội là sản phẩm của quá trình phát triển của tinh thần, của ý niệm."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Luận điểm sau đây về nguồn gốc của sự phát triển thuộc lập trường triết học nào: \"phát triển trong hiện thực là tồn tại khác, là biểu hiện của sự phát triển của ý niệm tuyệt đối\".",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy tâm chủ quan."
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa duy tâm khách quan."
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy vật biện chứng."
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy vật siêu hình."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Chủ nghĩa duy tâm khách quan.",
+        "explanation": "B. Chủ nghĩa duy tâm khách quan."
+      }
+    ]
+  },
+  {
+    "code": "TH33",
+    "number": 33,
+    "title": "Con người & bản chất con người",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Ông cho rằng quá trình nhận thức của con người là quá trình nhận thức Thượng đế, nhận thức Thượng đế chỉ để đạt được bởi niềm tin tôn giáo và Thượng đế là chân lý tối cao?",
+        "options": [
+          {
+            "label": "A",
+            "text": "TômátĐacanh"
+          },
+          {
+            "label": "B",
+            "text": "Ôguytxtanh"
+          },
+          {
+            "label": "C",
+            "text": "Đơnxcốt"
+          },
+          {
+            "label": "D",
+            "text": "Tectuliêng"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Ôguytxtanh",
+        "explanation": "B. Ôguytxtanh"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "C.Mác viết: “Các học thuyết duy vật chủ nghĩa cho rằng con người là sản phẩm của những hoàn cảnh giáo dục… Các học thuyết ấy quên rằng chính những con người làm thay đổi hoàn cảnh và bản thân nhà giáo dục cũng cần phải được giáo dục”. Câu nói này trong tác phẩm nào sau đây:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Luận cương về Phoiơbắc"
+          },
+          {
+            "label": "B",
+            "text": "Hệ tư tưởng Đức"
+          },
+          {
+            "label": "C",
+            "text": "Bản thảo kinh tế – triết học năm 1844"
+          },
+          {
+            "label": "D",
+            "text": "Góp phần phê phán triết học pháp quyền của Hêgen"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Luận cương về Phoiơbắc",
+        "explanation": "A. Luận cương về Phoiơbắc"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Ông cho rằng tự nhiên không có ý chí tối cao, ý muốn chủ quan con người không thể thay đổi được quy luật khách quan, vận mệnh của con người là do con người tự quyết định lấy. Ông là ai?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trang Tử"
+          },
+          {
+            "label": "B",
+            "text": "Mặc Tử"
+          },
+          {
+            "label": "C",
+            "text": "Hàn Phi Tử"
+          },
+          {
+            "label": "D",
+            "text": "Khổng Tử"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Hàn Phi Tử",
+        "explanation": "C. Hàn Phi Tử"
+      }
+    ]
+  },
+  {
+    "code": "TH34",
+    "number": 34,
+    "title": "Cá nhân & xã hội",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Nền tảng của quan hệ giữa cá nhân và xã hội:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Quan hệ chính trị"
+          },
+          {
+            "label": "B",
+            "text": "Quan hệ lợi ích"
+          },
+          {
+            "label": "C",
+            "text": "Quan hệ pháp quyền"
+          },
+          {
+            "label": "D",
+            "text": "Quan hệ đạo đức"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Quan hệ lợi ích",
+        "explanation": "B. Quan hệ lợi ích"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Vai trò của ý thức cá nhân đối với ý thức xã hội:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Quan điểm của (cá nhân, tầng lớp, giai cấp) với tư cách là chủ thể của hiện tượng ý thức ấy"
+          },
+          {
+            "label": "B",
+            "text": "Tồn tại xã hội cụ thể làm nảy sinh hiện tượng ý thức cụ thể cần lý giải"
+          },
+          {
+            "label": "C",
+            "text": "Hệ ý thức của giai cấp"
+          },
+          {
+            "label": "D",
+            "text": "Cả a và b."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả a và b.",
+        "explanation": "D. Cả a và b."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Quan niệm tồn tại tuyệt đối (Brahman) đồng nhất với “tôi” (Atman) là ý thức cá nhân thuần tuý. Quan niệm đó là của trường phái triết học cổ đại nào ở Ấn Độ:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sàmkhuya"
+          },
+          {
+            "label": "B",
+            "text": "Nyaya"
+          },
+          {
+            "label": "C",
+            "text": "Vêdanta"
+          },
+          {
+            "label": "D",
+            "text": "Yoga"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Vêdanta",
+        "explanation": "C. Vêdanta"
+      }
+    ]
+  },
+  {
+    "code": "TH35",
+    "number": 35,
+    "title": "Chủ nghĩa duy vật nhân bản (Phoiơbắc)",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Triết học nhân bản của Phoi-ơ-bắc có hạn chế gì?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Đồng nhất ý thức với một dạng vật chất."
+          },
+          {
+            "label": "B",
+            "text": "Cho con người sáng tạo ra thượng đế"
+          },
+          {
+            "label": "C",
+            "text": "Cho con người chỉ mang những thuộc tính sinh học bẩm sinh"
+          },
+          {
+            "label": "D",
+            "text": "Cả 3 điểm a, b, c."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Cho con người chỉ mang những thuộc tính sinh học bẩm sinh",
+        "explanation": "C. Cho con người chỉ mang những thuộc tính sinh học bẩm sinh"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Triết học nhân bản của Phoi-ơ-bắc có ưu điểm gì?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chống lại quan niệm nhị nguyên luận về sự tách rời tinh thần khỏi thể xác."
+          },
+          {
+            "label": "B",
+            "text": "Chống lại chủ nghĩa duy vật tầm thường cho ý thức do óc tiết ra"
+          },
+          {
+            "label": "C",
+            "text": "Chống lại quan niệm của đạo Thiên chúa về thượng đế"
+          },
+          {
+            "label": "D",
+            "text": "Cả 3 điểm a,b,c"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Cả 3 điểm a,b,c",
+        "explanation": "D. Cả 3 điểm a,b,c"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Luận điểm sau đây về nguồn gốc sự phát triển thuộc lập trường triết học nào: \"Phát triển của các sự vật là do cảm giác, ý thức con người quyết định\".",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy tâm chủ quan."
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa duy tâm khách quan."
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy vật biện chứng"
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy vật siêu hình."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Chủ nghĩa duy tâm chủ quan.",
+        "explanation": "A. Chủ nghĩa duy tâm chủ quan."
+      }
+    ]
+  },
+  {
+    "code": "TH36",
+    "number": 36,
+    "title": "Ý thức tôn giáo & các hình thái ý thức xã hội",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Tư tưởng về nguồn gốc tâm lý của tín ngưỡng, tôn giáo là vì con người bị ám ảnh bởi những hiện tượng khủng khiếp trong tự nhiên, là của nhà triết học Hy lạp cổ đại nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hêraclit"
+          },
+          {
+            "label": "B",
+            "text": "Đêmôcrit"
+          },
+          {
+            "label": "C",
+            "text": "Arixtốt"
+          },
+          {
+            "label": "D",
+            "text": "Platôn"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Đêmôcrit",
+        "explanation": "B. Đêmôcrit"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Luận điểm:“Sự phát triển của chính trị, pháp luật, triết học, tôn giáo, văn học, nghệ thuật, v.v. đều dựa trên cơ sở phát triển kinh tế. Nhưng tất cả chúng cũng có ảnh hưởng lẫn nhau và ảnh hưởng đến cơ sở kinh tế” thuộc lập trường triết học nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chủ nghĩa duy vật lịch sử"
+          },
+          {
+            "label": "B",
+            "text": "Chủ nghĩa duy tâm lịch sử"
+          },
+          {
+            "label": "C",
+            "text": "Chủ nghĩa duy tâm chủ quan"
+          },
+          {
+            "label": "D",
+            "text": "Chủ nghĩa duy kinh tế"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Chủ nghĩa duy vật lịch sử",
+        "explanation": "A. Chủ nghĩa duy vật lịch sử"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Quan niệm đối tượng của triết học là nghiên cứu “chân lý và lý trí”, còn đối tượng của thần học là “chân lý của lòng tin tôn giáo” là của ai?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Pie Abơla"
+          },
+          {
+            "label": "B",
+            "text": "Ôguytxtanh"
+          },
+          {
+            "label": "C",
+            "text": "Tômat Đacanh"
+          },
+          {
+            "label": "D",
+            "text": "Rôgiê Bêcơn"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Tômat Đacanh",
+        "explanation": "C. Tômat Đacanh"
+      }
+    ]
+  },
+  {
+    "code": "TH37",
+    "number": 37,
+    "title": "Triết học cận đại Tây Âu",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Phương pháp nghiên cứu chỉ dựa vào kinh nghiệm thực tế, không có khái quát, theo Ph.Bêcơn được gọi là phương pháp gì?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Phương pháp “con nhện”"
+          },
+          {
+            "label": "B",
+            "text": "Phương pháp “con kiến”"
+          },
+          {
+            "label": "C",
+            "text": "Phương pháp “con ong”"
+          },
+          {
+            "label": "D",
+            "text": "Phương pháp thực nghiệm"
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Phương pháp “con kiến”",
+        "explanation": "B. Phương pháp “con kiến”"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Giôn Lốccơ quan niệm về \"ý niệm phức tạp\" như thế nào?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ý niệm phức tạp là kết quả phản ánh trực tiếp nhiều đặc tính của sự vật"
+          },
+          {
+            "label": "B",
+            "text": "Ý niệm phức tạp là kết quả của phản ánh khái quát đặc tính nào đó của sự vật"
+          },
+          {
+            "label": "C",
+            "text": "Ý niệm phức tạp là tổng hợp “ý niệm đơn giản”"
+          },
+          {
+            "label": "D",
+            "text": "“Ý niệm phức tạp” là kết quả của hoạt động của riêng lý tính hoàn toàn chủ quan của con người"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. “Ý niệm phức tạp” là kết quả của hoạt động của riêng lý tính hoàn toàn chủ quan của con người",
+        "explanation": "D. “Ý niệm phức tạp” là kết quả của hoạt động của riêng lý tính hoàn toàn chủ quan của con người"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Theo quan niệm của Béccơli sự tồn tại các sự vật cụ thể trong thế giới do cái gì quyết định?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mọi vật do nguyên tử tạo nên"
+          },
+          {
+            "label": "B",
+            "text": "Vật tồn tại không phụ thuộc vào cảm giác"
+          },
+          {
+            "label": "C",
+            "text": "Vật do thượng đế tạo ra"
+          },
+          {
+            "label": "D",
+            "text": "Vật do phức hợp các cảm giác"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Vật do phức hợp các cảm giác",
+        "explanation": "D. Vật do phức hợp các cảm giác"
+      }
+    ]
+  },
+  {
+    "code": "TH38",
+    "number": 38,
+    "title": "Vận động & phát triển xã hội",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Tiêu chuẩn cơ bản nhất của tiến bộ xã hội là:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Trình độ phát triển của khoa học kỹ thuật"
+          },
+          {
+            "label": "B",
+            "text": "Trình độ dân trí và mức sống cao của xã hội"
+          },
+          {
+            "label": "C",
+            "text": "Trình độ phát triển của lực lượng sản xuất"
+          },
+          {
+            "label": "D",
+            "text": "Trình độ phát triển của đạo đức, luật pháp, tôn giáo"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Trình độ phát triển của lực lượng sản xuất",
+        "explanation": "C. Trình độ phát triển của lực lượng sản xuất"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Điền đáp án đúng vào chỗ trống câu sau: “Quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất là quy luật......... của sự phát triển xã hội”:",
+        "options": [
+          {
+            "label": "A",
+            "text": "đặc thù."
+          },
+          {
+            "label": "B",
+            "text": "tạm thời."
+          },
+          {
+            "label": "C",
+            "text": ".riêng biệt."
+          },
+          {
+            "label": "D",
+            "text": "chung nhất."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. chung nhất.",
+        "explanation": "D. chung nhất."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Tính chất không đều của tiến bộ xã hội thể hiện:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Giữa các bộ phận cấu thành xã hội, giữa các quốc gia dân tộc, giữa các vùng trên thế giới."
+          },
+          {
+            "label": "B",
+            "text": "Giữa các quốc gia dân tộc, giữa các giai cấp trong xã hội, giữa các vùng trên thế giới"
+          },
+          {
+            "label": "C",
+            "text": "Giữa các vùng trên thế giới, giữa các giai cấp trong xã hội, giữa các quốc gia dân tộc"
+          },
+          {
+            "label": "D",
+            "text": "Giữa các giai cấp trong xã hội, giữa các vùng trên thế giới, giữa các bộ phận cấu thành xã hội"
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Giữa các bộ phận cấu thành xã hội, giữa các quốc gia dân tộc, giữa các vùng trên thế giới.",
+        "explanation": "A. Giữa các bộ phận cấu thành xã hội, giữa các quốc gia dân tộc, giữa các vùng trên thế giới."
+      }
+    ]
+  },
+  {
+    "code": "TH39",
+    "number": 39,
+    "title": "Phương pháp luận biện chứng",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Tìm câu giải thích chưa chính xác về Nguyên tắc Toàn diện trong các câu sau:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nguyên tắc này đòi hỏi khi nhận thức sự vật phải xem xét tất cả các mặt, các mối liên hệ của nó."
+          },
+          {
+            "label": "B",
+            "text": "Cơ sở lý luận của nguyên tắc này là Nguyên lý về mối liên hệ phổ biến."
+          },
+          {
+            "label": "C",
+            "text": "Phải xem xét sự vật trong tính toàn vẹn và phức tạp của nó."
+          },
+          {
+            "label": "D",
+            "text": "Căn cứ của nguyên tắc này là tư duy của con người ở mỗi thời điểm đều có thể bao quát được hết mọi mặt phong phú của sự vật."
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Căn cứ của nguyên tắc này là tư duy của con người ở mỗi thời điểm đều có thể bao quát được hết mọi mặt phong phú của sự vật.",
+        "explanation": "D. Căn cứ của nguyên tắc này là tư duy của con người ở mỗi thời điểm đều có thể bao quát được hết mọi mặt phong phú của sự vật."
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "Phát hiện một điểm giải thích chưa chính xác về nguyên tắc nhận thức \" Tính toàn diện của sự xem xét\":",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cơ sở lý luận của nguyên tắc này là Nguyên lí về mối liên hệ phổ biến"
+          },
+          {
+            "label": "B",
+            "text": "Nguyên lí này đòi hỏi khi nhận thức về sự vật phải xem xét tất cả các mặt, các mối liên hệ của nó"
+          },
+          {
+            "label": "C",
+            "text": "Phải xem xét sự vật trong tính toàn vẹn và phưc tạp của nó"
+          },
+          {
+            "label": "D",
+            "text": "Căn cứ của nguyên tắc này là tư duy của con người ở mỗi thời điểm đều có thể bao quát được hết mọi mặt phong phú của sự vật"
+          }
+        ],
+        "correctOption": "D",
+        "answer": "D. Căn cứ của nguyên tắc này là tư duy của con người ở mỗi thời điểm đều có thể bao quát được hết mọi mặt phong phú của sự vật",
+        "explanation": "D. Căn cứ của nguyên tắc này là tư duy của con người ở mỗi thời điểm đều có thể bao quát được hết mọi mặt phong phú của sự vật"
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Một sinh viên giải thích nguyên tắc thống nhất giữa lý luận và thực tiễn trong hoạt động nhận thức và hoạt động thực tiễn như sau. Phát hiện một giải thích không chính xác?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thực tiễn mà không có lí luận hướng dẫn thì thành thực tiễn mù quáng"
+          },
+          {
+            "label": "B",
+            "text": "Lý luận mà không liên hệ với thực tiễn là lý luận suông"
+          },
+          {
+            "label": "C",
+            "text": "Lý luận đóng vai trò quyết định trong quan hệ đối với thực tiễn"
+          },
+          {
+            "label": "D",
+            "text": "Thực tiễn là hoạt động vật chất, còn lý luận là hoạt động tinh thần"
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Lý luận đóng vai trò quyết định trong quan hệ đối với thực tiễn",
+        "explanation": "C. Lý luận đóng vai trò quyết định trong quan hệ đối với thực tiễn"
+      }
+    ]
+  },
+  {
+    "code": "TH40",
+    "number": 40,
+    "title": "Tổng hợp triết học Mác - Lênin",
+    "situation": "",
+    "sourceFile": "TrietChien_TracNghiem_Batch4_La31-40.docx",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "points": 1,
+        "type": "multiple_choice",
+        "label": "DỄ – 1đ • TRẮC NGHIỆM",
+        "text": "Theo quan điểm của chủ nghĩa Mác - Lênin, luận điểm nào sau đây nói về bản chất của giai cấp tư sản?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Giai cấp tư sản bóc lột giá trị thặng dư"
+          },
+          {
+            "label": "B",
+            "text": "Giai cấp tư sản tích cực đổi mới công nghệ"
+          },
+          {
+            "label": "C",
+            "text": "Giai cấp tư sản thường áp dụng khoa học kỹ thuật, nâng cao năng suất lao động"
+          },
+          {
+            "label": "D",
+            "text": "Giai cấp tư sản tích cực đổi mới phương pháp quản lý."
+          }
+        ],
+        "correctOption": "A",
+        "answer": "A. Giai cấp tư sản bóc lột giá trị thặng dư",
+        "explanation": "A. Giai cấp tư sản bóc lột giá trị thặng dư"
+      },
+      {
+        "difficulty": "medium",
+        "points": 2,
+        "type": "multiple_choice",
+        "label": "TRUNG BÌNH – 2đ • TRẮC NGHIỆM",
+        "text": "V.l. Lenin khẳng định: Chủ nghĩa Mác dựa vào… chứ không phải dựa vào… để vạch ra đương lối chính trị của mình.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Khả năng/ Hiện thực."
+          },
+          {
+            "label": "B",
+            "text": "Hiện thực/ Ngẫu nhiên."
+          },
+          {
+            "label": "C",
+            "text": "Hiện thực/ Khả năng."
+          },
+          {
+            "label": "D",
+            "text": "Tất yếu/ Ngẫu nhiên."
+          }
+        ],
+        "correctOption": "C",
+        "answer": "C. Hiện thực/ Khả năng.",
+        "explanation": "C. Hiện thực/ Khả năng."
+      },
+      {
+        "difficulty": "hard",
+        "points": 3,
+        "type": "multiple_choice",
+        "label": "KHÓ – 3đ • TRẮC NGHIỆM",
+        "text": "Tác phẩm nào của Mác và Ăngghen đánh dấu sự hoàn thành về cơ bản triết học Mác nói riêng và chủ nghĩa Mác nói chung?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hệ tư tưởng Đức"
+          },
+          {
+            "label": "B",
+            "text": "Tuyên ngôn của Đảng cộng sản."
+          },
+          {
+            "label": "C",
+            "text": "Sự khốn cùng của triết học"
+          },
+          {
+            "label": "D",
+            "text": "Luận cương về Phoi-ơ-bắc."
+          }
+        ],
+        "correctOption": "B",
+        "answer": "B. Tuyên ngôn của Đảng cộng sản.",
+        "explanation": "B. Tuyên ngôn của Đảng cộng sản."
+      }
+    ]
+  }
+]

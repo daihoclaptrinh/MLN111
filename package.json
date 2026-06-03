@@ -1,0 +1,30 @@
+{
+  "name": "mln111",
+  "version": "1.0.0",
+  "description": "Backend API for TRIET CHIEN board-game companion website.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "client:dev": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client",
+    "client:preview": "npm run preview --prefix client",
+    "import:cards": "node scripts/import-cards.js",
+    "import:events": "node scripts/import-events.js",
+    "import:skills": "node scripts/import-skills.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mammoth": "^1.12.0",
+    "mongoose": "^9.6.3",
+    "ws": "^8.21.0",
+    "zod": "^4.4.3"
+  }
+}
