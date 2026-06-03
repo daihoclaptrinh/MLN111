@@ -16,15 +16,24 @@ function getCorsOptions() {
     .map((origin) => origin.trim())
     .filter(Boolean);
 
-  const allowedOrigins = new Set([
+  const allowedOrigins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     ...configuredOrigins,
-  ]);
+  ].map((origin) => origin.replace(/\/$/, ""));
+
+  const allowedPatterns = allowedOrigins
+    .filter((origin) => origin.includes("*"))
+    .map((origin) => new RegExp(`^${origin.replace(/[.+?^${}()|[\]\\]/g, "\\$&").replace(/\\\*/g, ".*")}$`));
 
   return {
     origin(origin, callback) {
-      if (!origin || allowedOrigins.has(origin)) {
+      const normalizedOrigin = origin?.replace(/\/$/, "");
+      if (
+        !normalizedOrigin ||
+        allowedOrigins.includes(normalizedOrigin) ||
+        allowedPatterns.some((pattern) => pattern.test(normalizedOrigin))
+      ) {
         return callback(null, true);
       }
 
