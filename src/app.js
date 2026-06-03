@@ -79,6 +79,14 @@ function createApp({ displayHub } = {}) {
     res.json({ status: "ok", service: "triet-chien-api", database: matchStore.mode });
   });
 
+  app.get("/api/realtime/health", (req, res) => {
+    res.json({
+      status: "ok",
+      websocketPath: "/ws/display",
+      displayHubAttached: Boolean(displayHub),
+    });
+  });
+
   app.get("/api/events", (req, res) => {
     res.json({ count: events.length, data: events });
   });
